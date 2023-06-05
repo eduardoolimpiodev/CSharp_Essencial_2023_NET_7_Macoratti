@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados5\bin\Debug\net6.0\TiposDeDados5.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados5\bin\Debug\net6.0\TiposDeDados5.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados5\bin\Debug\net6.0\TiposDeDados5.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados5\bin\Debug\net6.0\TiposDeDados5.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados5\bin\Debug\net6.0\TiposDeDados5.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados5\obj\Debug\net6.0\TiposDeDados5.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados5\obj\Debug\net6.0\TiposDeDados5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados5\obj\Debug\net6.0\TiposDeDados5.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados5\obj\Debug\net6.0\TiposDeDados5.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados5\obj\Debug\net6.0\TiposDeDados5.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados5\obj\Debug\net6.0\TiposDeDados5.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados5\obj\Debug\net6.0\refint\TiposDeDados5.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados5\obj\Debug\net6.0\TiposDeDados5.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados5\obj\Debug\net6.0\TiposDeDados5.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados5\obj\Debug\net6.0\ref\TiposDeDados5.dll
