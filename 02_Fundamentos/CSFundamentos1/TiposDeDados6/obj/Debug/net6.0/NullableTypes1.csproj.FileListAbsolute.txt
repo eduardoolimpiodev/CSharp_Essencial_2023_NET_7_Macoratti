@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados6\bin\Debug\net6.0\NullableTypes1.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados6\bin\Debug\net6.0\NullableTypes1.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados6\bin\Debug\net6.0\NullableTypes1.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados6\bin\Debug\net6.0\NullableTypes1.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados6\bin\Debug\net6.0\NullableTypes1.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados6\obj\Debug\net6.0\NullableTypes1.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados6\obj\Debug\net6.0\NullableTypes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados6\obj\Debug\net6.0\NullableTypes1.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados6\obj\Debug\net6.0\NullableTypes1.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados6\obj\Debug\net6.0\NullableTypes1.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados6\obj\Debug\net6.0\NullableTypes1.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados6\obj\Debug\net6.0\refint\NullableTypes1.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados6\obj\Debug\net6.0\NullableTypes1.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados6\obj\Debug\net6.0\NullableTypes1.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\TiposDeDados6\obj\Debug\net6.0\ref\NullableTypes1.dll
