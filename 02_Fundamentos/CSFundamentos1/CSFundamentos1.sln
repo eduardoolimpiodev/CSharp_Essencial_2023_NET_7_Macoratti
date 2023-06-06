@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeDados5", "TiposDeDad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypes1", "TiposDeDados6\NullableTypes1.csproj", "{1234467B-CAE3-4EFD-85AA-34A3D36C7A1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio01", "Exercicio01\Exercicio01.csproj", "{88269947-77D8-4610-86D4-28AE886F7D38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1234467B-CAE3-4EFD-85AA-34A3D36C7A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1234467B-CAE3-4EFD-85AA-34A3D36C7A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1234467B-CAE3-4EFD-85AA-34A3D36C7A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88269947-77D8-4610-86D4-28AE886F7D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88269947-77D8-4610-86D4-28AE886F7D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88269947-77D8-4610-86D4-28AE886F7D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88269947-77D8-4610-86D4-28AE886F7D38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
