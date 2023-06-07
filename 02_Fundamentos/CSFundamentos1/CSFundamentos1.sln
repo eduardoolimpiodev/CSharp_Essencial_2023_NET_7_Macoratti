@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "EntradaDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseMath", "ClasseMath\ClasseMath.csproj", "{B158FF34-85A7-4B26-8AF5-64B72F9AE2E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InferenciaDeTipos", "InferenciaDeTipos\InferenciaDeTipos.csproj", "{4F94C938-94FF-4321-B1B7-3AF60E03BA38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{B158FF34-85A7-4B26-8AF5-64B72F9AE2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B158FF34-85A7-4B26-8AF5-64B72F9AE2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B158FF34-85A7-4B26-8AF5-64B72F9AE2E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F94C938-94FF-4321-B1B7-3AF60E03BA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F94C938-94FF-4321-B1B7-3AF60E03BA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F94C938-94FF-4321-B1B7-3AF60E03BA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F94C938-94FF-4321-B1B7-3AF60E03BA38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
