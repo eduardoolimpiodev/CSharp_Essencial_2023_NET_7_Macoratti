@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\ConversaoDeTipos02\bin\Debug\net6.0\ConversaoDeTipos02.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\ConversaoDeTipos02\bin\Debug\net6.0\ConversaoDeTipos02.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\ConversaoDeTipos02\bin\Debug\net6.0\ConversaoDeTipos02.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\ConversaoDeTipos02\bin\Debug\net6.0\ConversaoDeTipos02.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\ConversaoDeTipos02\bin\Debug\net6.0\ConversaoDeTipos02.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\ConversaoDeTipos02\obj\Debug\net6.0\ConversaoDeTipos02.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\ConversaoDeTipos02\obj\Debug\net6.0\ConversaoDeTipos02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\ConversaoDeTipos02\obj\Debug\net6.0\ConversaoDeTipos02.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\ConversaoDeTipos02\obj\Debug\net6.0\ConversaoDeTipos02.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\ConversaoDeTipos02\obj\Debug\net6.0\ConversaoDeTipos02.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\ConversaoDeTipos02\obj\Debug\net6.0\ConversaoDeTipos02.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\ConversaoDeTipos02\obj\Debug\net6.0\refint\ConversaoDeTipos02.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\ConversaoDeTipos02\obj\Debug\net6.0\ConversaoDeTipos02.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\ConversaoDeTipos02\obj\Debug\net6.0\ConversaoDeTipos02.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\ConversaoDeTipos02\obj\Debug\net6.0\ref\ConversaoDeTipos02.dll
