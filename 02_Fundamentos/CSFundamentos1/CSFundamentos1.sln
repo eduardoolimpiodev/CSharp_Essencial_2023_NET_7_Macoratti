@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoDeTipos01", "Conve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoDeTipos02", "ConversaoDeTipos02\ConversaoDeTipos02.csproj", "{26EB4A29-909C-4CE5-9F89-9FC2D1042B95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{7F64FBEF-59E9-4EDE-A561-7FBBE941B177}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{26EB4A29-909C-4CE5-9F89-9FC2D1042B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26EB4A29-909C-4CE5-9F89-9FC2D1042B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26EB4A29-909C-4CE5-9F89-9FC2D1042B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F64FBEF-59E9-4EDE-A561-7FBBE941B177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F64FBEF-59E9-4EDE-A561-7FBBE941B177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F64FBEF-59E9-4EDE-A561-7FBBE941B177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F64FBEF-59E9-4EDE-A561-7FBBE941B177}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
