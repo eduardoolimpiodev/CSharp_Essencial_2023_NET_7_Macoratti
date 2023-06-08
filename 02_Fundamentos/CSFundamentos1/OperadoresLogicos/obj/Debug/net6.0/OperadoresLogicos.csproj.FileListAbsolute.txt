@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresLogicos\obj\Debug\net6.0\refint\OperadoresLogicos.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresLogicos\obj\Debug\net6.0\ref\OperadoresLogicos.dll
