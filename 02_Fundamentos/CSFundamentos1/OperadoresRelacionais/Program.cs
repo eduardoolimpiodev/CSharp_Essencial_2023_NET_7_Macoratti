@@ -25,7 +25,7 @@ string a = "Cursos";
 string b = "cursos";
 
 Console.WriteLine($"Valor de a: {a}");
-Console.WriteLine($"Valor de b: {b}");
+Console.WriteLine($"Valor de b: {b}\n");
 
 Console.WriteLine(a == b);
 Console.WriteLine(a.Equals(b));
