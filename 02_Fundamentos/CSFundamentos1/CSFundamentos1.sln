@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresRelacionais", "Op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{5D2E0512-A029-4DFC-9161-32E9D681C157}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableReferenceTypes", "NullableReferenceTypes\NullableReferenceTypes.csproj", "{06F22AD6-0D75-4320-BE0B-5C89F842B2A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{5D2E0512-A029-4DFC-9161-32E9D681C157}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D2E0512-A029-4DFC-9161-32E9D681C157}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D2E0512-A029-4DFC-9161-32E9D681C157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F22AD6-0D75-4320-BE0B-5C89F842B2A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F22AD6-0D75-4320-BE0B-5C89F842B2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F22AD6-0D75-4320-BE0B-5C89F842B2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F22AD6-0D75-4320-BE0B-5C89F842B2A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
