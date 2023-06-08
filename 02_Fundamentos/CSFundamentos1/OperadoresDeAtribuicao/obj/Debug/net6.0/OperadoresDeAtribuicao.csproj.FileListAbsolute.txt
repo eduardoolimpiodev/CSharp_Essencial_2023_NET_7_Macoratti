@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresDeAtribuicao\bin\Debug\net6.0\OperadoresDeAtribuicao.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresDeAtribuicao\bin\Debug\net6.0\OperadoresDeAtribuicao.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresDeAtribuicao\bin\Debug\net6.0\OperadoresDeAtribuicao.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresDeAtribuicao\bin\Debug\net6.0\OperadoresDeAtribuicao.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresDeAtribuicao\bin\Debug\net6.0\OperadoresDeAtribuicao.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresDeAtribuicao\obj\Debug\net6.0\refint\OperadoresDeAtribuicao.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\OperadoresDeAtribuicao\obj\Debug\net6.0\ref\OperadoresDeAtribuicao.dll

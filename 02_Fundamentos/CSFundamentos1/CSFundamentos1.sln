@@ -3,33 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoDeDados1", "TipoDeDados1\TipoDeDados1.csproj", "{F5CEDEAB-6618-43CA-8DE3-E793B0E3ED10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipoDeDados1", "TipoDeDados1\TipoDeDados1.csproj", "{F5CEDEAB-6618-43CA-8DE3-E793B0E3ED10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoDeDados2", "TipoDeDados2\TipoDeDados2.csproj", "{5D13CC50-B30C-4339-AC63-BA1067C1A3A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipoDeDados2", "TipoDeDados2\TipoDeDados2.csproj", "{5D13CC50-B30C-4339-AC63-BA1067C1A3A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeDados3", "TiposDeDados3\TiposDeDados3.csproj", "{EA822F50-C8B1-48FB-9039-696B99DFDB84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDeDados3", "TiposDeDados3\TiposDeDados3.csproj", "{EA822F50-C8B1-48FB-9039-696B99DFDB84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeDados4", "TiposDeDados4\TiposDeDados4.csproj", "{555F884E-87B6-45F7-9170-92376E82A672}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDeDados4", "TiposDeDados4\TiposDeDados4.csproj", "{555F884E-87B6-45F7-9170-92376E82A672}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeDados5", "TiposDeDados5\TiposDeDados5.csproj", "{7EC41A36-C39B-463D-84A9-C2874B48364C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDeDados5", "TiposDeDados5\TiposDeDados5.csproj", "{7EC41A36-C39B-463D-84A9-C2874B48364C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypes1", "TiposDeDados6\NullableTypes1.csproj", "{1234467B-CAE3-4EFD-85AA-34A3D36C7A1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableTypes1", "TiposDeDados6\NullableTypes1.csproj", "{1234467B-CAE3-4EFD-85AA-34A3D36C7A1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio01", "Exercicio01\Exercicio01.csproj", "{88269947-77D8-4610-86D4-28AE886F7D38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio01", "Exercicio01\Exercicio01.csproj", "{88269947-77D8-4610-86D4-28AE886F7D38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaídaDeDados01", "SaídaDeDados01\SaídaDeDados01.csproj", "{E935FA3C-A04F-44E2-8630-B172846C1A59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaídaDeDados01", "SaídaDeDados01\SaídaDeDados01.csproj", "{E935FA3C-A04F-44E2-8630-B172846C1A59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDeDados02", "SaidaDeDados02\SaidaDeDados02.csproj", "{ECBBE9F0-E39F-4F72-A5A9-4C8D657F33AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDeDados02", "SaidaDeDados02\SaidaDeDados02.csproj", "{ECBBE9F0-E39F-4F72-A5A9-4C8D657F33AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoDeTipos01", "ConversaoDeTipos01\ConversaoDeTipos01.csproj", "{41BEE7FC-916D-4C8D-9B0D-317423719044}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoDeTipos01", "ConversaoDeTipos01\ConversaoDeTipos01.csproj", "{41BEE7FC-916D-4C8D-9B0D-317423719044}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoDeTipos02", "ConversaoDeTipos02\ConversaoDeTipos02.csproj", "{26EB4A29-909C-4CE5-9F89-9FC2D1042B95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoDeTipos02", "ConversaoDeTipos02\ConversaoDeTipos02.csproj", "{26EB4A29-909C-4CE5-9F89-9FC2D1042B95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{7F64FBEF-59E9-4EDE-A561-7FBBE941B177}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{7F64FBEF-59E9-4EDE-A561-7FBBE941B177}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseMath", "ClasseMath\ClasseMath.csproj", "{B158FF34-85A7-4B26-8AF5-64B72F9AE2E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasseMath", "ClasseMath\ClasseMath.csproj", "{B158FF34-85A7-4B26-8AF5-64B72F9AE2E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InferenciaDeTipos", "InferenciaDeTipos\InferenciaDeTipos.csproj", "{4F94C938-94FF-4321-B1B7-3AF60E03BA38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InferenciaDeTipos", "InferenciaDeTipos\InferenciaDeTipos.csproj", "{4F94C938-94FF-4321-B1B7-3AF60E03BA38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresDeAtribuicao", "OperadoresDeAtribuicao\OperadoresDeAtribuicao.csproj", "{CFE13F97-0F75-4780-9B93-03275BD0C178}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{4F94C938-94FF-4321-B1B7-3AF60E03BA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F94C938-94FF-4321-B1B7-3AF60E03BA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F94C938-94FF-4321-B1B7-3AF60E03BA38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE13F97-0F75-4780-9B93-03275BD0C178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE13F97-0F75-4780-9B93-03275BD0C178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE13F97-0F75-4780-9B93-03275BD0C178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE13F97-0F75-4780-9B93-03275BD0C178}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
