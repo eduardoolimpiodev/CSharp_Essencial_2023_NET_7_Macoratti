@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos", "Operad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableReferenceTypes", "NullableReferenceTypes\NullableReferenceTypes.csproj", "{06F22AD6-0D75-4320-BE0B-5C89F842B2A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorUniarioETernario", "OperadorUniarioETernario\OperadorUniarioETernario.csproj", "{7D33C319-369C-4061-9C63-018A3BE41A5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{06F22AD6-0D75-4320-BE0B-5C89F842B2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06F22AD6-0D75-4320-BE0B-5C89F842B2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06F22AD6-0D75-4320-BE0B-5C89F842B2A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D33C319-369C-4061-9C63-018A3BE41A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D33C319-369C-4061-9C63-018A3BE41A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D33C319-369C-4061-9C63-018A3BE41A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D33C319-369C-4061-9C63-018A3BE41A5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
