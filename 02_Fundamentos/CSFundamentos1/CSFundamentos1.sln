@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasseMath", "ClasseMath\Cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InferenciaDeTipos", "InferenciaDeTipos\InferenciaDeTipos.csproj", "{4F94C938-94FF-4321-B1B7-3AF60E03BA38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresDeAtribuicao", "OperadoresDeAtribuicao\OperadoresDeAtribuicao.csproj", "{CFE13F97-0F75-4780-9B93-03275BD0C178}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresDeAtribuicao", "OperadoresDeAtribuicao\OperadoresDeAtribuicao.csproj", "{CFE13F97-0F75-4780-9B93-03275BD0C178}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes", "Constantes\Constantes.csproj", "{12BABA41-865A-4EEA-A05B-05DB3078F8E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constantes", "Constantes\Constantes.csproj", "{12BABA41-865A-4EEA-A05B-05DB3078F8E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementoEDecremento", "IncrementoEDecremento\IncrementoEDecremento.csproj", "{1D80DABD-DF93-4A39-9C2F-1497C6557507}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{12BABA41-865A-4EEA-A05B-05DB3078F8E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12BABA41-865A-4EEA-A05B-05DB3078F8E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12BABA41-865A-4EEA-A05B-05DB3078F8E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D80DABD-DF93-4A39-9C2F-1497C6557507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D80DABD-DF93-4A39-9C2F-1497C6557507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D80DABD-DF93-4A39-9C2F-1497C6557507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D80DABD-DF93-4A39-9C2F-1497C6557507}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

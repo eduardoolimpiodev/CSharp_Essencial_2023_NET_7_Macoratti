@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\IncrementoEDecremento\bin\Debug\net6.0\IncrementoEDecremento.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\IncrementoEDecremento\bin\Debug\net6.0\IncrementoEDecremento.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\IncrementoEDecremento\bin\Debug\net6.0\IncrementoEDecremento.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\IncrementoEDecremento\bin\Debug\net6.0\IncrementoEDecremento.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\IncrementoEDecremento\bin\Debug\net6.0\IncrementoEDecremento.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\IncrementoEDecremento\obj\Debug\net6.0\IncrementoEDecremento.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\IncrementoEDecremento\obj\Debug\net6.0\IncrementoEDecremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\IncrementoEDecremento\obj\Debug\net6.0\IncrementoEDecremento.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\IncrementoEDecremento\obj\Debug\net6.0\IncrementoEDecremento.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\IncrementoEDecremento\obj\Debug\net6.0\IncrementoEDecremento.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\IncrementoEDecremento\obj\Debug\net6.0\IncrementoEDecremento.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\IncrementoEDecremento\obj\Debug\net6.0\refint\IncrementoEDecremento.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\IncrementoEDecremento\obj\Debug\net6.0\IncrementoEDecremento.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\IncrementoEDecremento\obj\Debug\net6.0\IncrementoEDecremento.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\02_Fundamentos\CSFundamentos1\IncrementoEDecremento\obj\Debug\net6.0\ref\IncrementoEDecremento.dll
