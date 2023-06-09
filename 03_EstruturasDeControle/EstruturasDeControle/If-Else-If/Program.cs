@@ -9,17 +9,17 @@ if (nota < 5)
 }
 else if(nota >= 5 && nota < 6)
 {
-    Console.WriteLine("Aluno em recuperação!");
+    Console.WriteLine("\nAluno em recuperação!");
 }
 else if(nota >= 6 && nota <= 9)
 {
-    Console.WriteLine("Aluno Aprovado!");
+    Console.WriteLine("\nAluno Aprovado!");
 }
-else
+else if (nota > 9)
 {
-    Console.WriteLine("Aluno Aprovado com Distinção");
+    Console.WriteLine("\nAluno Aprovado com Distinção");
 }
 
-Console.WriteLine("FIM DO PROGRAMA!");
+Console.WriteLine("\nFIM DO PROGRAMA!");
 
 Console.ReadKey();
