@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\If-Else-If\bin\Debug\net6.0\If-Else-If.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\If-Else-If\bin\Debug\net6.0\If-Else-If.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\If-Else-If\bin\Debug\net6.0\If-Else-If.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\If-Else-If\bin\Debug\net6.0\If-Else-If.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\If-Else-If\bin\Debug\net6.0\If-Else-If.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\If-Else-If\obj\Debug\net6.0\If-Else-If.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\If-Else-If\obj\Debug\net6.0\If-Else-If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\If-Else-If\obj\Debug\net6.0\If-Else-If.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\If-Else-If\obj\Debug\net6.0\If-Else-If.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\If-Else-If\obj\Debug\net6.0\If-Else-If.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\If-Else-If\obj\Debug\net6.0\If-Else-If.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\If-Else-If\obj\Debug\net6.0\refint\If-Else-If.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\If-Else-If\obj\Debug\net6.0\If-Else-If.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\If-Else-If\obj\Debug\net6.0\If-Else-If.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\If-Else-If\obj\Debug\net6.0\ref\If-Else-If.dll
