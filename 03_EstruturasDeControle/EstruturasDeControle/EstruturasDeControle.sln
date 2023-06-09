@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If", "If\If.csproj", "{CB269B5D-8E20-43B7-B36C-D3229A5A5D18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If", "If\If.csproj", "{CB269B5D-8E20-43B7-B36C-D3229A5A5D18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If-Else", "If-Else\If-Else.csproj", "{D79A452D-FD9B-4A98-822B-39CEF3763475}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If-Else", "If-Else\If-Else.csproj", "{D79A452D-FD9B-4A98-822B-39CEF3763475}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If-Else-If", "If-Else-If\If-Else-If.csproj", "{66B32D26-342C-4A33-B510-C9F2E6087CEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If-Else-If", "If-Else-If\If-Else-If.csproj", "{66B32D26-342C-4A33-B510-C9F2E6087CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch01", "Switch01\Switch01.csproj", "{BF69A8EA-A8B8-49CC-B0E3-68ED4D68FD8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{66B32D26-342C-4A33-B510-C9F2E6087CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66B32D26-342C-4A33-B510-C9F2E6087CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66B32D26-342C-4A33-B510-C9F2E6087CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF69A8EA-A8B8-49CC-B0E3-68ED4D68FD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF69A8EA-A8B8-49CC-B0E3-68ED4D68FD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF69A8EA-A8B8-49CC-B0E3-68ED4D68FD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF69A8EA-A8B8-49CC-B0E3-68ED4D68FD8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

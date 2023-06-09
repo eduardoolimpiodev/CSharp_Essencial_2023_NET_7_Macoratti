@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Switch01\bin\Debug\net6.0\Switch01.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Switch01\bin\Debug\net6.0\Switch01.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Switch01\bin\Debug\net6.0\Switch01.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Switch01\bin\Debug\net6.0\Switch01.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Switch01\bin\Debug\net6.0\Switch01.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Switch01\obj\Debug\net6.0\Switch01.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Switch01\obj\Debug\net6.0\Switch01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Switch01\obj\Debug\net6.0\Switch01.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Switch01\obj\Debug\net6.0\Switch01.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Switch01\obj\Debug\net6.0\Switch01.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Switch01\obj\Debug\net6.0\Switch01.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Switch01\obj\Debug\net6.0\refint\Switch01.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Switch01\obj\Debug\net6.0\Switch01.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Switch01\obj\Debug\net6.0\Switch01.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Switch01\obj\Debug\net6.0\ref\Switch01.dll
