@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\03_EstruturasDeControle\\EstruturasDeControle\\For\\For.csproj",
-      "projectName": "For",
-      "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\03_EstruturasDeControle\\EstruturasDeControle\\For\\For.csproj",
+      "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\03_EstruturasDeControle\\EstruturasDeControle\\For\\For_01.csproj",
+      "projectName": "For_01",
+      "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\03_EstruturasDeControle\\EstruturasDeControle\\For\\For_01.csproj",
       "packagesPath": "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\03_EstruturasDeControle\\EstruturasDeControle\\For\\obj\\",
       "projectStyle": "PackageReference",

@@ -25,7 +25,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Do-While", "Do-While\Do-Whi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Do-While-Aninhado", "Do-While-Aninhado\Do-While-Aninhado.csproj", "{0012F814-5BF9-4476-9BC3-EE219C17CA45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For", "For\For.csproj", "{5E8CE60E-A500-440E-A3CD-E0ABBAD005E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For_01", "For\For_01.csproj", "{5E8CE60E-A500-440E-A3CD-E0ABBAD005E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
