@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Do-While-Aninhado\bin\Debug\net6.0\Do-While-Aninhado.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Do-While-Aninhado\bin\Debug\net6.0\Do-While-Aninhado.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Do-While-Aninhado\bin\Debug\net6.0\Do-While-Aninhado.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Do-While-Aninhado\bin\Debug\net6.0\Do-While-Aninhado.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Do-While-Aninhado\bin\Debug\net6.0\Do-While-Aninhado.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Do-While-Aninhado\obj\Debug\net6.0\Do-While-Aninhado.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Do-While-Aninhado\obj\Debug\net6.0\Do-While-Aninhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Do-While-Aninhado\obj\Debug\net6.0\Do-While-Aninhado.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Do-While-Aninhado\obj\Debug\net6.0\Do-While-Aninhado.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Do-While-Aninhado\obj\Debug\net6.0\Do-While-Aninhado.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Do-While-Aninhado\obj\Debug\net6.0\Do-While-Aninhado.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Do-While-Aninhado\obj\Debug\net6.0\refint\Do-While-Aninhado.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Do-While-Aninhado\obj\Debug\net6.0\Do-While-Aninhado.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Do-While-Aninhado\obj\Debug\net6.0\Do-While-Aninhado.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Do-While-Aninhado\obj\Debug\net6.0\ref\Do-While-Aninhado.dll
