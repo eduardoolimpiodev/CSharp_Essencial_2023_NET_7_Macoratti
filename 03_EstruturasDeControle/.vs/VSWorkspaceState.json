@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\EstruturasDeControle",
-    "\\EstruturasDeControle\\Switch02"
+    "\\EstruturasDeControle\\Switch02",
+    "\\EstruturasDeControle\\While_01"
   ],
-  "SelectedNode": "\\EstruturasDeControle\\Switch02\\Program.cs",
+  "SelectedNode": "\\EstruturasDeControle\\While_01\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
