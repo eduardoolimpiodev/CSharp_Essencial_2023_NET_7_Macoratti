@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\While_03\bin\Debug\net6.0\While_03.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\While_03\bin\Debug\net6.0\While_03.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\While_03\bin\Debug\net6.0\While_03.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\While_03\bin\Debug\net6.0\While_03.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\While_03\bin\Debug\net6.0\While_03.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\While_03\obj\Debug\net6.0\While_03.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\While_03\obj\Debug\net6.0\While_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\While_03\obj\Debug\net6.0\While_03.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\While_03\obj\Debug\net6.0\While_03.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\While_03\obj\Debug\net6.0\While_03.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\While_03\obj\Debug\net6.0\While_03.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\While_03\obj\Debug\net6.0\refint\While_03.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\While_03\obj\Debug\net6.0\While_03.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\While_03\obj\Debug\net6.0\While_03.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\While_03\obj\Debug\net6.0\ref\While_03.dll
