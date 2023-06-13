@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\03_EstruturasDeControle",
+    "\\03_EstruturasDeControle\\EstruturasDeControle",
+    "\\03_EstruturasDeControle\\EstruturasDeControle\\Switch02"
   ],
-  "SelectedNode": "\\MinhaSolucao.sln",
+  "SelectedNode": "\\03_EstruturasDeControle\\EstruturasDeControle\\Switch02\\Program.cs",
   "PreviewInSolutionExplorer": true
 }
