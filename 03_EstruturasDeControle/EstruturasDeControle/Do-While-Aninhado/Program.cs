@@ -8,7 +8,7 @@ do
     int y = 0;
     do
     {
-        Console.Write($"({x},{y})");
+        Console.Write($"({x},{y}) ");
         y++;
     }
     while (y < 5);
