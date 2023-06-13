@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch01", "Switch01\Switch
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch02", "Switch02\Switch02.csproj", "{792B7490-4768-4EB5-A372-F7469B04D86B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeRepeticao", "EstruturaDeRepeticao\EstruturaDeRepeticao.csproj", "{43474780-D86D-476A-BFAC-781040F0C747}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaDeRepeticao", "EstruturaDeRepeticao\EstruturaDeRepeticao.csproj", "{43474780-D86D-476A-BFAC-781040F0C747}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While_01", "While_01\While_01.csproj", "{5CDD8234-AC35-4080-9665-C4F5DBD9DDB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "While_01", "While_01\While_01.csproj", "{5CDD8234-AC35-4080-9665-C4F5DBD9DDB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While_02", "While_02\While_02.csproj", "{F643887E-8461-4CF0-8097-56071FC49271}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{5CDD8234-AC35-4080-9665-C4F5DBD9DDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CDD8234-AC35-4080-9665-C4F5DBD9DDB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CDD8234-AC35-4080-9665-C4F5DBD9DDB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F643887E-8461-4CF0-8097-56071FC49271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F643887E-8461-4CF0-8097-56071FC49271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F643887E-8461-4CF0-8097-56071FC49271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F643887E-8461-4CF0-8097-56071FC49271}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

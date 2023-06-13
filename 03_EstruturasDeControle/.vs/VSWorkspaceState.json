@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EstruturasDeControle",
+    "\\EstruturasDeControle\\Switch02"
   ],
+  "SelectedNode": "\\EstruturasDeControle\\Switch02\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
