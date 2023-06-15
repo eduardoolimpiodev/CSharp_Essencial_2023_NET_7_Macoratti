@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\EstruturasDeControle",
+    "\\EstruturasDeControle\\Do-While-Aninhado",
     "\\EstruturasDeControle\\Switch02",
     "\\EstruturasDeControle\\While_01"
   ],
-  "SelectedNode": "\\EstruturasDeControle\\While_01\\Program.cs",
+  "SelectedNode": "\\EstruturasDeControle\\Do-While-Aninhado\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

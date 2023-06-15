@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Break_Continue\bin\Debug\net6.0\Break_Continue.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Break_Continue\bin\Debug\net6.0\Break_Continue.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Break_Continue\bin\Debug\net6.0\Break_Continue.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Break_Continue\bin\Debug\net6.0\Break_Continue.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Break_Continue\bin\Debug\net6.0\Break_Continue.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Break_Continue\obj\Debug\net6.0\Break_Continue.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Break_Continue\obj\Debug\net6.0\Break_Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Break_Continue\obj\Debug\net6.0\Break_Continue.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Break_Continue\obj\Debug\net6.0\Break_Continue.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Break_Continue\obj\Debug\net6.0\Break_Continue.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Break_Continue\obj\Debug\net6.0\Break_Continue.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Break_Continue\obj\Debug\net6.0\refint\Break_Continue.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Break_Continue\obj\Debug\net6.0\Break_Continue.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Break_Continue\obj\Debug\net6.0\Break_Continue.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\03_EstruturasDeControle\EstruturasDeControle\Break_Continue\obj\Debug\net6.0\ref\Break_Continue.dll
