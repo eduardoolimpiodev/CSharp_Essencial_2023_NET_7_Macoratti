@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Metodos\n");
+﻿Console.WriteLine("Metodos com Parametros\n");
 
 
 MinhaClasse minhaClasse = new MinhaClasse();
@@ -16,10 +16,8 @@ class MinhaClasse
         ExibirDataAtual();
     }
 
-    public void ExibirDataAtual() =>
+    public void ExibirDataAtual()
+    {
         Console.WriteLine(DateTime.Now);
-    
+    }
 }
-
-
-
