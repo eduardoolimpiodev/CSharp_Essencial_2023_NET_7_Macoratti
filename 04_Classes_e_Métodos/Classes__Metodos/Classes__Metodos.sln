@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos", "Metodos\Metodos.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos_Com_Parametros", "Metodos_Com_Parametros\Metodos_Com_Parametros.csproj", "{AE062B64-A305-4977-A1DA-1ABEC9EEE9FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passando_Parametros", "Passando_Parametros\Passando_Parametros.csproj", "{FB1274DF-A0DC-4DF3-9311-CDE3BA4F9FDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AE062B64-A305-4977-A1DA-1ABEC9EEE9FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE062B64-A305-4977-A1DA-1ABEC9EEE9FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE062B64-A305-4977-A1DA-1ABEC9EEE9FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB1274DF-A0DC-4DF3-9311-CDE3BA4F9FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1274DF-A0DC-4DF3-9311-CDE3BA4F9FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1274DF-A0DC-4DF3-9311-CDE3BA4F9FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1274DF-A0DC-4DF3-9311-CDE3BA4F9FDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
