@@ -1,25 +1,8 @@
 ﻿Console.WriteLine("Passando Parametros\n");
 
+
 Aluno aluno = new Aluno();
-aluno.Nome = "Eduardo";
-aluno.Idade = 37;
-aluno.Sexo = "Masculino";
-aluno.Aprovado = "S";
-
-Console.WriteLine("Nome: ");
-aluno.Nome = Console.ReadLine();
-
-Console.WriteLine("Idade: ");
-aluno.Idade = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine("Sexo: ");
-aluno.Sexo = Console.ReadLine();
-
-Console.WriteLine("Aprovado: (S)im (N)ão");
-aluno.Aprovado = Console.ReadLine();
-
-Curso curso = new Curso();
-curso.Resultado(aluno);
+aluno.Consultar();
 
 
 
@@ -31,6 +14,30 @@ public class Aluno
     public int Idade { get; set; }
     public string? Sexo { get; set; }
     public string? Aprovado { get; set; }
+
+    public void Consultar()
+    {
+        Aluno aluno = new Aluno();
+        aluno.Nome = "Eduardo";
+        aluno.Idade = 37;
+        aluno.Sexo = "Masculino";
+        aluno.Aprovado = "S";
+
+        Console.WriteLine("Nome: ");
+        aluno.Nome = Console.ReadLine();
+
+        Console.WriteLine("Idade: ");
+        aluno.Idade = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("Sexo: ");
+        aluno.Sexo = Console.ReadLine();
+
+        Console.WriteLine("Aprovado: (S)im (N)ão");
+        aluno.Aprovado = Console.ReadLine();
+
+        Curso curso = new Curso();
+        curso.Resultado(aluno);
+    }
 }
 
 
