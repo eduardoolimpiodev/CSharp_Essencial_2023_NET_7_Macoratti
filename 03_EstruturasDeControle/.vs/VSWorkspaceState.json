@@ -3,9 +3,10 @@
     "",
     "\\EstruturasDeControle",
     "\\EstruturasDeControle\\Do-While-Aninhado",
+    "\\EstruturasDeControle\\For_Aninhado",
     "\\EstruturasDeControle\\Switch02",
     "\\EstruturasDeControle\\While_01"
   ],
-  "SelectedNode": "\\EstruturasDeControle\\Do-While-Aninhado\\Program.cs",
+  "SelectedNode": "\\EstruturasDeControle\\For_Aninhado\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

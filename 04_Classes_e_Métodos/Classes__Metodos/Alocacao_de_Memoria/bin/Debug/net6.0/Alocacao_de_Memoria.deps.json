@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Alocacao_de_Memoria/1.0.0": {
+        "runtime": {
+          "Alocacao_de_Memoria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alocacao_de_Memoria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

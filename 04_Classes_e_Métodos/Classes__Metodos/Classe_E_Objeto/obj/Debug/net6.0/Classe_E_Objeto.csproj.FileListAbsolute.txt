@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Classe_E_Objeto\bin\Debug\net6.0\Classe_E_Objeto.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Classe_E_Objeto\bin\Debug\net6.0\Classe_E_Objeto.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Classe_E_Objeto\bin\Debug\net6.0\Classe_E_Objeto.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Classe_E_Objeto\bin\Debug\net6.0\Classe_E_Objeto.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Classe_E_Objeto\bin\Debug\net6.0\Classe_E_Objeto.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Classe_E_Objeto\obj\Debug\net6.0\Classe_E_Objeto.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Classe_E_Objeto\obj\Debug\net6.0\Classe_E_Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Classe_E_Objeto\obj\Debug\net6.0\Classe_E_Objeto.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Classe_E_Objeto\obj\Debug\net6.0\Classe_E_Objeto.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Classe_E_Objeto\obj\Debug\net6.0\Classe_E_Objeto.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Classe_E_Objeto\obj\Debug\net6.0\Classe_E_Objeto.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Classe_E_Objeto\obj\Debug\net6.0\refint\Classe_E_Objeto.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Classe_E_Objeto\obj\Debug\net6.0\Classe_E_Objeto.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Classe_E_Objeto\obj\Debug\net6.0\Classe_E_Objeto.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Classe_E_Objeto\obj\Debug\net6.0\ref\Classe_E_Objeto.dll

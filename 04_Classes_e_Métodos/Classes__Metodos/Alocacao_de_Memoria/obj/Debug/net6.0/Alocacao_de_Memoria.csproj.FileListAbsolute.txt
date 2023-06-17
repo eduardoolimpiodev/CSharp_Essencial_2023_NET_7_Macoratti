@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Alocacao_de_Memoria\bin\Debug\net6.0\Alocacao_de_Memoria.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Alocacao_de_Memoria\bin\Debug\net6.0\Alocacao_de_Memoria.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Alocacao_de_Memoria\bin\Debug\net6.0\Alocacao_de_Memoria.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Alocacao_de_Memoria\bin\Debug\net6.0\Alocacao_de_Memoria.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Alocacao_de_Memoria\bin\Debug\net6.0\Alocacao_de_Memoria.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Alocacao_de_Memoria\obj\Debug\net6.0\Alocacao_de_Memoria.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Alocacao_de_Memoria\obj\Debug\net6.0\Alocacao_de_Memoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Alocacao_de_Memoria\obj\Debug\net6.0\Alocacao_de_Memoria.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Alocacao_de_Memoria\obj\Debug\net6.0\Alocacao_de_Memoria.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Alocacao_de_Memoria\obj\Debug\net6.0\Alocacao_de_Memoria.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Alocacao_de_Memoria\obj\Debug\net6.0\Alocacao_de_Memoria.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Alocacao_de_Memoria\obj\Debug\net6.0\refint\Alocacao_de_Memoria.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Alocacao_de_Memoria\obj\Debug\net6.0\Alocacao_de_Memoria.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Alocacao_de_Memoria\obj\Debug\net6.0\Alocacao_de_Memoria.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Alocacao_de_Memoria\obj\Debug\net6.0\ref\Alocacao_de_Memoria.dll
