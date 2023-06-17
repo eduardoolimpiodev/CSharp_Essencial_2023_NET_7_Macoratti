@@ -1,23 +1,16 @@
 ﻿Console.WriteLine("Metodos com Parametros\n");
 
-
-MinhaClasse minhaClasse = new MinhaClasse();
-minhaClasse.Saudacao();
-minhaClasse.ExibirDataAtual();
+MinhaClasse minhaClasse1 = new MinhaClasse();
+minhaClasse1.Saudacao("Eduardo", DateTime.Now.ToLongDateString());
 
 
 Console.ReadKey();
 
-class MinhaClasse
+public class MinhaClasse
 {
-    public void Saudacao()
+    public void Saudacao(string nome, string data)
     {
-        Console.WriteLine("Bem vindo!");
-        ExibirDataAtual();
-    }
-
-    public void ExibirDataAtual()
-    {
-        Console.WriteLine(DateTime.Now);
+        Console.WriteLine(nome);
+        Console.WriteLine(data);
     }
 }
