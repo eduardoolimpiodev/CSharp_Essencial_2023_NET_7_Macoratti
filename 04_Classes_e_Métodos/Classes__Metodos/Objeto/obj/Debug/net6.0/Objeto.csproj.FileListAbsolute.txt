@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Objeto\bin\Debug\net6.0\Objeto.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Objeto\bin\Debug\net6.0\Objeto.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Objeto\bin\Debug\net6.0\Objeto.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Objeto\bin\Debug\net6.0\Objeto.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Objeto\bin\Debug\net6.0\Objeto.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Objeto\obj\Debug\net6.0\Objeto.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Objeto\obj\Debug\net6.0\Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Objeto\obj\Debug\net6.0\Objeto.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Objeto\obj\Debug\net6.0\Objeto.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Objeto\obj\Debug\net6.0\Objeto.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Objeto\obj\Debug\net6.0\Objeto.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Objeto\obj\Debug\net6.0\refint\Objeto.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Objeto\obj\Debug\net6.0\Objeto.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Objeto\obj\Debug\net6.0\Objeto.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Objeto\obj\Debug\net6.0\ref\Objeto.dll

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classe_E_Objeto", "Classe_E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alocacao_de_Memoria", "Alocacao_de_Memoria\Alocacao_de_Memoria.csproj", "{C2741A2A-8D24-41B7-A7A3-B6E8D5C58F92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objeto", "Objeto\Objeto.csproj", "{C800B18F-408A-43EC-93A4-7B54A150E4FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C2741A2A-8D24-41B7-A7A3-B6E8D5C58F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2741A2A-8D24-41B7-A7A3-B6E8D5C58F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2741A2A-8D24-41B7-A7A3-B6E8D5C58F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C800B18F-408A-43EC-93A4-7B54A150E4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C800B18F-408A-43EC-93A4-7B54A150E4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C800B18F-408A-43EC-93A4-7B54A150E4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C800B18F-408A-43EC-93A4-7B54A150E4FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
