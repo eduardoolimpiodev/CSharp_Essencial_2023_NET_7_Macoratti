@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Metodo_com_Return/1.0.0": {
+        "runtime": {
+          "Metodo_com_Return.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metodo_com_Return/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
