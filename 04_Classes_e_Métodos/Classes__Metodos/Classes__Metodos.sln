@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos_Com_Parametros", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passando_Parametros", "Passando_Parametros\Passando_Parametros.csproj", "{FB1274DF-A0DC-4DF3-9311-CDE3BA4F9FDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtor_01", "Construtores\Construtor_01.csproj", "{81CCD2ED-350B-4904-89ED-7160BE5F12A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{FB1274DF-A0DC-4DF3-9311-CDE3BA4F9FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB1274DF-A0DC-4DF3-9311-CDE3BA4F9FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB1274DF-A0DC-4DF3-9311-CDE3BA4F9FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81CCD2ED-350B-4904-89ED-7160BE5F12A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81CCD2ED-350B-4904-89ED-7160BE5F12A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81CCD2ED-350B-4904-89ED-7160BE5F12A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81CCD2ED-350B-4904-89ED-7160BE5F12A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
