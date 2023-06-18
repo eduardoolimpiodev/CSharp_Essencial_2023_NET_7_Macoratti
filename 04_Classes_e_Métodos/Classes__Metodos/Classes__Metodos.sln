@@ -19,7 +19,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtor_01", "Construtor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtor_02", "Construtor_02\Construtor_02.csproj", "{364A7CED-C638-47B6-9CD9-BBA8CD2C4199}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palavra_this", "Palavra_this\Palavra_this.csproj", "{D83D7288-A873-480E-8173-219A350C2E0F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palavra_this_01", "Palavra_this\Palavra_this_01.csproj", "{D83D7288-A873-480E-8173-219A350C2E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palavra_this_02", "Palavra_this_02\Palavra_this_02.csproj", "{2CCE2013-B6E8-4607-BEFB-8F6DC9DA599A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{D83D7288-A873-480E-8173-219A350C2E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D83D7288-A873-480E-8173-219A350C2E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D83D7288-A873-480E-8173-219A350C2E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCE2013-B6E8-4607-BEFB-8F6DC9DA599A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCE2013-B6E8-4607-BEFB-8F6DC9DA599A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCE2013-B6E8-4607-BEFB-8F6DC9DA599A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCE2013-B6E8-4607-BEFB-8F6DC9DA599A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

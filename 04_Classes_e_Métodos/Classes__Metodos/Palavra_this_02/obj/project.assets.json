@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Palavra_this\\Palavra_this_01.csproj",
-      "projectName": "Palavra_this_01",
-      "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Palavra_this\\Palavra_this_01.csproj",
+      "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Palavra_this_02\\Palavra_this_02.csproj",
+      "projectName": "Palavra_this_02",
+      "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Palavra_this_02\\Palavra_this_02.csproj",
       "packagesPath": "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Palavra_this\\obj\\",
+      "outputPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Palavra_this_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eduardo Olimpio\\AppData\\Roaming\\NuGet\\NuGet.Config",
