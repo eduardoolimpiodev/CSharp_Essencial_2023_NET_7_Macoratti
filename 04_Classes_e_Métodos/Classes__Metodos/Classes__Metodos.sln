@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtor_01", "Construtor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtor_02", "Construtor_02\Construtor_02.csproj", "{364A7CED-C638-47B6-9CD9-BBA8CD2C4199}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palavra_this", "Palavra_this\Palavra_this.csproj", "{D83D7288-A873-480E-8173-219A350C2E0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{364A7CED-C638-47B6-9CD9-BBA8CD2C4199}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{364A7CED-C638-47B6-9CD9-BBA8CD2C4199}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{364A7CED-C638-47B6-9CD9-BBA8CD2C4199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83D7288-A873-480E-8173-219A350C2E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83D7288-A873-480E-8173-219A350C2E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83D7288-A873-480E-8173-219A350C2E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83D7288-A873-480E-8173-219A350C2E0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
