@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo_com_Return", "Metodo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_02", "Exercicio_02\Exercicio_02.csproj", "{ABBECAAB-CBFB-46AB-A27B-5B91CB3734C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrecarga_de_Metodos", "Sobrecarga_de_Metodos\Sobrecarga_de_Metodos.csproj", "{F2B01DE3-DD1F-4117-809C-6C0A58F671E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{ABBECAAB-CBFB-46AB-A27B-5B91CB3734C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABBECAAB-CBFB-46AB-A27B-5B91CB3734C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABBECAAB-CBFB-46AB-A27B-5B91CB3734C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B01DE3-DD1F-4117-809C-6C0A58F671E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B01DE3-DD1F-4117-809C-6C0A58F671E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B01DE3-DD1F-4117-809C-6C0A58F671E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B01DE3-DD1F-4117-809C-6C0A58F671E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
