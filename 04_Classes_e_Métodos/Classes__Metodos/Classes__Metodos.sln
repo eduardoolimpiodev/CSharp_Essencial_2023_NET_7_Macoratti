@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sobrecarga_de_Metodos", "So
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodos_Geral", "Metodos_Geral\Metodos_Geral.csproj", "{76300965-0165-47D8-B73D-99C3AA8C6A25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passagem_de_Argumentos", "Passagem_de_Argumentos\Passagem_de_Argumentos.csproj", "{F0391102-B638-4A2D-954D-1EE11C24978B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Passagem_de_Argumentos_Valor", "Passagem_de_Argumentos\Passagem_de_Argumentos_Valor.csproj", "{F0391102-B638-4A2D-954D-1EE11C24978B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passagem_de_Argumentos_Referencia", "Passagem_de_Argumentos_Referencia\Passagem_de_Argumentos_Referencia.csproj", "{883D122B-4D67-40EA-AD8D-A0E0295BEEDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{F0391102-B638-4A2D-954D-1EE11C24978B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0391102-B638-4A2D-954D-1EE11C24978B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0391102-B638-4A2D-954D-1EE11C24978B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{883D122B-4D67-40EA-AD8D-A0E0295BEEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883D122B-4D67-40EA-AD8D-A0E0295BEEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883D122B-4D67-40EA-AD8D-A0E0295BEEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883D122B-4D67-40EA-AD8D-A0E0295BEEDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
