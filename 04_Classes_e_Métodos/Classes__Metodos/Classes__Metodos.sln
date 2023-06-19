@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passagem_de_Argumentos_Refe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_03", "Exercicio_03\Exercicio_03.csproj", "{7D2A641F-1979-4EFB-93D2-F9A36C551242}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passagem_de_Argumentos_Referencia_Out", "Passagem_de_Argumentos_Referencia_Out\Passagem_de_Argumentos_Referencia_Out.csproj", "{B6D429E2-D6C7-46B2-B929-2EE42438F498}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{7D2A641F-1979-4EFB-93D2-F9A36C551242}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D2A641F-1979-4EFB-93D2-F9A36C551242}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D2A641F-1979-4EFB-93D2-F9A36C551242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D429E2-D6C7-46B2-B929-2EE42438F498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D429E2-D6C7-46B2-B929-2EE42438F498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D429E2-D6C7-46B2-B929-2EE42438F498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D429E2-D6C7-46B2-B929-2EE42438F498}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
