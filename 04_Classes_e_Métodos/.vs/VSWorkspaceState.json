@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Classes__Metodos",
+    "\\Classes__Metodos\\Metodos_Geral"
   ],
+  "SelectedNode": "\\Classes__Metodos\\Metodos_Geral\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

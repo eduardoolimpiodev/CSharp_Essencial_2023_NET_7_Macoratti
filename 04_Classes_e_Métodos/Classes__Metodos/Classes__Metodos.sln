@@ -9,29 +9,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alocacao_de_Memoria", "Aloc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Objeto", "Objeto\Objeto.csproj", "{C800B18F-408A-43EC-93A4-7B54A150E4FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos", "Metodos\Metodos.csproj", "{9E4C4E6C-1E28-41B3-AA6D-27EA88DC6BDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodos", "Metodos\Metodos.csproj", "{9E4C4E6C-1E28-41B3-AA6D-27EA88DC6BDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos_Com_Parametros", "Metodos_Com_Parametros\Metodos_Com_Parametros.csproj", "{AE062B64-A305-4977-A1DA-1ABEC9EEE9FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodos_Com_Parametros", "Metodos_Com_Parametros\Metodos_Com_Parametros.csproj", "{AE062B64-A305-4977-A1DA-1ABEC9EEE9FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passando_Parametros", "Passando_Parametros\Passando_Parametros.csproj", "{FB1274DF-A0DC-4DF3-9311-CDE3BA4F9FDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Passando_Parametros", "Passando_Parametros\Passando_Parametros.csproj", "{FB1274DF-A0DC-4DF3-9311-CDE3BA4F9FDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtor_01", "Construtores\Construtor_01.csproj", "{81CCD2ED-350B-4904-89ED-7160BE5F12A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Construtor_01", "Construtores\Construtor_01.csproj", "{81CCD2ED-350B-4904-89ED-7160BE5F12A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtor_02", "Construtor_02\Construtor_02.csproj", "{364A7CED-C638-47B6-9CD9-BBA8CD2C4199}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Construtor_02", "Construtor_02\Construtor_02.csproj", "{364A7CED-C638-47B6-9CD9-BBA8CD2C4199}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palavra_this_01", "Palavra_this\Palavra_this_01.csproj", "{D83D7288-A873-480E-8173-219A350C2E0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palavra_this_01", "Palavra_this\Palavra_this_01.csproj", "{D83D7288-A873-480E-8173-219A350C2E0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palavra_this_02", "Palavra_this_02\Palavra_this_02.csproj", "{2CCE2013-B6E8-4607-BEFB-8F6DC9DA599A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palavra_this_02", "Palavra_this_02\Palavra_this_02.csproj", "{2CCE2013-B6E8-4607-BEFB-8F6DC9DA599A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_01", "Exercicio_01\Exercicio_01.csproj", "{A1FB6B78-599B-4ACF-9824-A23B2D0550C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_01", "Exercicio_01\Exercicio_01.csproj", "{A1FB6B78-599B-4ACF-9824-A23B2D0550C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo_com_Return", "Metodo_com_Return\Metodo_com_Return.csproj", "{4C583CCD-D118-487E-8F31-ADA7CCA06350}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodo_com_Return", "Metodo_com_Return\Metodo_com_Return.csproj", "{4C583CCD-D118-487E-8F31-ADA7CCA06350}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_02", "Exercicio_02\Exercicio_02.csproj", "{ABBECAAB-CBFB-46AB-A27B-5B91CB3734C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_02", "Exercicio_02\Exercicio_02.csproj", "{ABBECAAB-CBFB-46AB-A27B-5B91CB3734C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrecarga_de_Metodos", "Sobrecarga_de_Metodos\Sobrecarga_de_Metodos.csproj", "{F2B01DE3-DD1F-4117-809C-6C0A58F671E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sobrecarga_de_Metodos", "Sobrecarga_de_Metodos\Sobrecarga_de_Metodos.csproj", "{F2B01DE3-DD1F-4117-809C-6C0A58F671E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos_Geral", "Metodos_Geral\Metodos_Geral.csproj", "{76300965-0165-47D8-B73D-99C3AA8C6A25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodos_Geral", "Metodos_Geral\Metodos_Geral.csproj", "{76300965-0165-47D8-B73D-99C3AA8C6A25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passagem_de_Argumentos", "Passagem_de_Argumentos\Passagem_de_Argumentos.csproj", "{F0391102-B638-4A2D-954D-1EE11C24978B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{76300965-0165-47D8-B73D-99C3AA8C6A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76300965-0165-47D8-B73D-99C3AA8C6A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76300965-0165-47D8-B73D-99C3AA8C6A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0391102-B638-4A2D-954D-1EE11C24978B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0391102-B638-4A2D-954D-1EE11C24978B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0391102-B638-4A2D-954D-1EE11C24978B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0391102-B638-4A2D-954D-1EE11C24978B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
