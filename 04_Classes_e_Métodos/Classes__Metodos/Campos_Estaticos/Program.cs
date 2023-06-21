@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Campos estáticos\n");
+﻿//O campo Y Pertence a classe e não ao objeto, pois é um campo estático.
+
+Console.WriteLine("Campos estáticos\n");
 
 A a1 = new A();
 a1.x = 10;
