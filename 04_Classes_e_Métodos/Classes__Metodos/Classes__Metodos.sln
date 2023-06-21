@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos_estaticos", "Metodo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Campos_Estaticos", "Campos_Estaticos\Campos_Estaticos.csproj", "{34C00178-0298-4921-8CCE-0B7DFE200143}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Campo_Estatico_Exercicio", "Campo_Estatico_Exercicio\Campo_Estatico_Exercicio.csproj", "{DF7ED4D1-B601-430F-9355-EB12B3B13265}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{34C00178-0298-4921-8CCE-0B7DFE200143}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34C00178-0298-4921-8CCE-0B7DFE200143}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34C00178-0298-4921-8CCE-0B7DFE200143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7ED4D1-B601-430F-9355-EB12B3B13265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7ED4D1-B601-430F-9355-EB12B3B13265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7ED4D1-B601-430F-9355-EB12B3B13265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7ED4D1-B601-430F-9355-EB12B3B13265}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
