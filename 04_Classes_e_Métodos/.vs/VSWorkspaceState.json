@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Classes__Metodos",
-    "\\Classes__Metodos\\Metodos_Geral"
+    "\\Classes__Metodos\\Metodos_Geral",
+    "\\Classes__Metodos\\Passagem_de_Argumentos"
   ],
-  "SelectedNode": "\\Classes__Metodos\\Metodos_Geral\\Program.cs",
+  "SelectedNode": "\\Classes__Metodos\\Passagem_de_Argumentos\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
