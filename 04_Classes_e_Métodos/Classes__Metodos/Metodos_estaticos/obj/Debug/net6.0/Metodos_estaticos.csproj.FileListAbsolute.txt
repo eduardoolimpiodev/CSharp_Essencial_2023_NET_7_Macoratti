@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Metodos_estaticos\bin\Debug\net6.0\Metodos_estaticos.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Metodos_estaticos\bin\Debug\net6.0\Metodos_estaticos.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Metodos_estaticos\bin\Debug\net6.0\Metodos_estaticos.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Metodos_estaticos\bin\Debug\net6.0\Metodos_estaticos.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Metodos_estaticos\bin\Debug\net6.0\Metodos_estaticos.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Metodos_estaticos\obj\Debug\net6.0\Metodos_estaticos.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Metodos_estaticos\obj\Debug\net6.0\Metodos_estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Metodos_estaticos\obj\Debug\net6.0\Metodos_estaticos.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Metodos_estaticos\obj\Debug\net6.0\Metodos_estaticos.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Metodos_estaticos\obj\Debug\net6.0\Metodos_estaticos.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Metodos_estaticos\obj\Debug\net6.0\Metodos_estaticos.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Metodos_estaticos\obj\Debug\net6.0\refint\Metodos_estaticos.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Metodos_estaticos\obj\Debug\net6.0\Metodos_estaticos.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Metodos_estaticos\obj\Debug\net6.0\Metodos_estaticos.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Metodos_estaticos\obj\Debug\net6.0\ref\Metodos_estaticos.dll
