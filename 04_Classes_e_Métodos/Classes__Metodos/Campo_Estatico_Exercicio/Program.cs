@@ -3,14 +3,19 @@
 ContaCorrente c1 = new ContaCorrente();
 c1.Conta = 101;
 c1.Nome = "Maria";
-c1.Juros = 3.99f;
+//c1.Juros = 3.99f;
 
 ContaCorrente c2 = new ContaCorrente();
 c2.Conta = 102;
 c2.Nome = "Eduardo";
-c2.Juros = 4.99f;
+//c2.Juros = 4.99f;
 
-Console.WriteLine();
+ContaCorrente.Juros = 4.24f;
+c1.JurosAnual();
+c2.JurosAnual();
+
+Console.WriteLine($"Cliente: {c1.Nome} - Juros Anual: {c1.JurosAnual()}");
+Console.WriteLine($"Cliente: {c2.Nome} - Juros Anual: {c2.JurosAnual()}");
 
 
 Console.ReadKey();
@@ -19,7 +24,7 @@ public class ContaCorrente
 {
     public int Conta;
     public string? Nome;
-    public float Juros;
+    public  static float Juros;
 
     public float JurosAnual()
     {

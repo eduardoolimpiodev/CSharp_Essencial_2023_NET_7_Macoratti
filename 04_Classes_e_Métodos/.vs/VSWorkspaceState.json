@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Classes__Metodos",
+    "\\Classes__Metodos\\Campos_Estaticos",
     "\\Classes__Metodos\\Metodos_Geral",
     "\\Classes__Metodos\\Passagem_de_Argumentos"
   ],
-  "SelectedNode": "\\Classes__Metodos\\Passagem_de_Argumentos\\Program.cs",
+  "SelectedNode": "\\Classes__Metodos\\Campos_Estaticos\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
