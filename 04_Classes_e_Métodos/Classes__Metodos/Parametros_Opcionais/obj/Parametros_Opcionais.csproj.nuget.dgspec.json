@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Parametros_Opcionais\\Parametros_Opcionais.csproj": {}
+    "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Parametros_Opcionais\\Parametros_Opcionais.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Parametros_Opcionais\\Parametros_Opcionais.csproj": {
+    "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Parametros_Opcionais\\Parametros_Opcionais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Parametros_Opcionais\\Parametros_Opcionais.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Parametros_Opcionais\\Parametros_Opcionais.csproj",
         "projectName": "Parametros_Opcionais",
-        "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Parametros_Opcionais\\Parametros_Opcionais.csproj",
-        "packagesPath": "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Parametros_Opcionais\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Parametros_Opcionais\\Parametros_Opcionais.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Parametros_Opcionais\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Eduardo Olimpio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

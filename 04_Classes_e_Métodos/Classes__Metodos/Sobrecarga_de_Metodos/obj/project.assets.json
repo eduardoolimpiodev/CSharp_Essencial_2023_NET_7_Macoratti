@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Sobrecarga_de_Metodos\\Sobrecarga_de_Metodos.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Sobrecarga_de_Metodos\\Sobrecarga_de_Metodos.csproj",
       "projectName": "Sobrecarga_de_Metodos",
-      "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Sobrecarga_de_Metodos\\Sobrecarga_de_Metodos.csproj",
-      "packagesPath": "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Sobrecarga_de_Metodos\\obj\\",
+      "projectPath": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Sobrecarga_de_Metodos\\Sobrecarga_de_Metodos.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Sobrecarga_de_Metodos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Eduardo Olimpio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

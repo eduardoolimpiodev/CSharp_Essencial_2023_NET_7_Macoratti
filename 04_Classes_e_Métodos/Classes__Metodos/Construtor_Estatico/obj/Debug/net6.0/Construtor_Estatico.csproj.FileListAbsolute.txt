@@ -1,0 +1,15 @@
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Construtor_Estatico\bin\Debug\net6.0\Construtor_Estatico.exe
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Construtor_Estatico\bin\Debug\net6.0\Construtor_Estatico.deps.json
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Construtor_Estatico\bin\Debug\net6.0\Construtor_Estatico.runtimeconfig.json
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Construtor_Estatico\bin\Debug\net6.0\Construtor_Estatico.dll
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Construtor_Estatico\bin\Debug\net6.0\Construtor_Estatico.pdb
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Construtor_Estatico\obj\Debug\net6.0\Construtor_Estatico.csproj.AssemblyReference.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Construtor_Estatico\obj\Debug\net6.0\Construtor_Estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Construtor_Estatico\obj\Debug\net6.0\Construtor_Estatico.AssemblyInfoInputs.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Construtor_Estatico\obj\Debug\net6.0\Construtor_Estatico.AssemblyInfo.cs
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Construtor_Estatico\obj\Debug\net6.0\Construtor_Estatico.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Construtor_Estatico\obj\Debug\net6.0\Construtor_Estatico.dll
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Construtor_Estatico\obj\Debug\net6.0\refint\Construtor_Estatico.dll
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Construtor_Estatico\obj\Debug\net6.0\Construtor_Estatico.pdb
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Construtor_Estatico\obj\Debug\net6.0\Construtor_Estatico.genruntimeconfig.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Construtor_Estatico\obj\Debug\net6.0\ref\Construtor_Estatico.dll

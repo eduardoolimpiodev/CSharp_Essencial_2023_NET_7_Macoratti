@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Classe_E_Objeto\\Classe_E_Objeto.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Classe_E_Objeto\\Classe_E_Objeto.csproj",
       "projectName": "Classe_E_Objeto",
-      "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Classe_E_Objeto\\Classe_E_Objeto.csproj",
-      "packagesPath": "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Classe_E_Objeto\\obj\\",
+      "projectPath": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Classe_E_Objeto\\Classe_E_Objeto.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Classe_E_Objeto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Eduardo Olimpio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Metodos_estaticos\\Metodos_estaticos.csproj": {}
+    "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Metodos_estaticos\\Metodos_estaticos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Metodos_estaticos\\Metodos_estaticos.csproj": {
+    "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Metodos_estaticos\\Metodos_estaticos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Metodos_estaticos\\Metodos_estaticos.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Metodos_estaticos\\Metodos_estaticos.csproj",
         "projectName": "Metodos_estaticos",
-        "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Metodos_estaticos\\Metodos_estaticos.csproj",
-        "packagesPath": "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Metodos_estaticos\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Metodos_estaticos\\Metodos_estaticos.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\04_Classes_e_Métodos\\Classes__Metodos\\Metodos_estaticos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Eduardo Olimpio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
