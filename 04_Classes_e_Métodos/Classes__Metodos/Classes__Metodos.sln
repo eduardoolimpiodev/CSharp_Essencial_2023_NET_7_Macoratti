@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Campos_Estaticos", "Campos_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Campo_Estatico_Exercicio", "Campo_Estatico_Exercicio\Campo_Estatico_Exercicio.csproj", "{DF7ED4D1-B601-430F-9355-EB12B3B13265}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtor_Estatico", "Construtor_Estatico\Construtor_Estatico.csproj", "{093F9ED2-F8F6-4DCF-8868-4C36B2DEB34B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Construtor_Estatico", "Construtor_Estatico\Construtor_Estatico.csproj", "{093F9ED2-F8F6-4DCF-8868-4C36B2DEB34B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Propriedades", "Propriedades\Propriedades.csproj", "{BEB1943A-DDB3-4EFB-B65B-7F7BA5F5CE00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{093F9ED2-F8F6-4DCF-8868-4C36B2DEB34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{093F9ED2-F8F6-4DCF-8868-4C36B2DEB34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{093F9ED2-F8F6-4DCF-8868-4C36B2DEB34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB1943A-DDB3-4EFB-B65B-7F7BA5F5CE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB1943A-DDB3-4EFB-B65B-7F7BA5F5CE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB1943A-DDB3-4EFB-B65B-7F7BA5F5CE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB1943A-DDB3-4EFB-B65B-7F7BA5F5CE00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
