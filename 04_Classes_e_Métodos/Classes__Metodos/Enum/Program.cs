@@ -1,13 +1,13 @@
 ﻿Console.WriteLine("Enum\n");
 
-int dia = (byte)DiasDaSemana.Quarta;
+int dia = (int)DiasDaSemana.Quarta;
 Console.WriteLine(DiasDaSemana.Quarta);
 Console.WriteLine($"DiasDaSemana.Quarta vale: {dia}");
 
 Console.ReadKey();
 
 
-enum DiasDaSemana : byte
+enum DiasDaSemana : int
 {
     Segunda, //0
     Terca,   //1
