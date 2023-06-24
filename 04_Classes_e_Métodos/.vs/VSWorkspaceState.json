@@ -5,8 +5,10 @@
     "\\Classes__Metodos\\Campos_Estaticos",
     "\\Classes__Metodos\\Campo_Estatico_Exercicio",
     "\\Classes__Metodos\\Metodos_Geral",
-    "\\Classes__Metodos\\Passagem_de_Argumentos"
+    "\\Classes__Metodos\\Passagem_de_Argumentos",
+    "\\Classes__Metodos\\Propriedades",
+    "\\Exercicio_07"
   ],
-  "SelectedNode": "\\Classes__Metodos\\Classes__Metodos.sln",
+  "SelectedNode": "\\Classes__Metodos\\Propriedades\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
