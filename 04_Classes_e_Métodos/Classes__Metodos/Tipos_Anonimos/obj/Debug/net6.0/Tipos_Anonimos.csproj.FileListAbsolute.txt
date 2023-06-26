@@ -1,0 +1,15 @@
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Tipos_Anonimos\bin\Debug\net6.0\Tipos_Anonimos.exe
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Tipos_Anonimos\bin\Debug\net6.0\Tipos_Anonimos.deps.json
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Tipos_Anonimos\bin\Debug\net6.0\Tipos_Anonimos.runtimeconfig.json
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Tipos_Anonimos\bin\Debug\net6.0\Tipos_Anonimos.dll
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Tipos_Anonimos\bin\Debug\net6.0\Tipos_Anonimos.pdb
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Tipos_Anonimos\obj\Debug\net6.0\Tipos_Anonimos.csproj.AssemblyReference.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Tipos_Anonimos\obj\Debug\net6.0\Tipos_Anonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Tipos_Anonimos\obj\Debug\net6.0\Tipos_Anonimos.AssemblyInfoInputs.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Tipos_Anonimos\obj\Debug\net6.0\Tipos_Anonimos.AssemblyInfo.cs
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Tipos_Anonimos\obj\Debug\net6.0\Tipos_Anonimos.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Tipos_Anonimos\obj\Debug\net6.0\Tipos_Anonimos.dll
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Tipos_Anonimos\obj\Debug\net6.0\refint\Tipos_Anonimos.dll
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Tipos_Anonimos\obj\Debug\net6.0\Tipos_Anonimos.pdb
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Tipos_Anonimos\obj\Debug\net6.0\Tipos_Anonimos.genruntimeconfig.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\04_Classes_e_Métodos\Classes__Metodos\Tipos_Anonimos\obj\Debug\net6.0\ref\Tipos_Anonimos.dll
