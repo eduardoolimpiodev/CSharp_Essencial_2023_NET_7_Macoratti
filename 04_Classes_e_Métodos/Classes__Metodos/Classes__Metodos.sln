@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloco_Try_Catch", "Bloco_Tr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipos_Anonimos", "Tipos_Anonimos\Tipos_Anonimos.csproj", "{35C932DE-C1BA-4995-AC01-DE269A119A10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partial_Class", "Partial_Class\Partial_Class.csproj", "{B26504DC-97D4-468D-BABE-98BEC7D43E6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{35C932DE-C1BA-4995-AC01-DE269A119A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35C932DE-C1BA-4995-AC01-DE269A119A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35C932DE-C1BA-4995-AC01-DE269A119A10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B26504DC-97D4-468D-BABE-98BEC7D43E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26504DC-97D4-468D-BABE-98BEC7D43E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26504DC-97D4-468D-BABE-98BEC7D43E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26504DC-97D4-468D-BABE-98BEC7D43E6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
