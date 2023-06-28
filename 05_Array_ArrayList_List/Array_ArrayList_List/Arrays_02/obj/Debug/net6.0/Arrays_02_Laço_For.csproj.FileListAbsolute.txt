@@ -1,0 +1,15 @@
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Arrays_02\bin\Debug\net6.0\Arrays_02_Laço_For.exe
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Arrays_02\bin\Debug\net6.0\Arrays_02_Laço_For.deps.json
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Arrays_02\bin\Debug\net6.0\Arrays_02_Laço_For.runtimeconfig.json
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Arrays_02\bin\Debug\net6.0\Arrays_02_Laço_For.dll
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Arrays_02\bin\Debug\net6.0\Arrays_02_Laço_For.pdb
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Arrays_02\obj\Debug\net6.0\Arrays_02_Laço_For.csproj.AssemblyReference.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Arrays_02\obj\Debug\net6.0\Arrays_02_Laço_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Arrays_02\obj\Debug\net6.0\Arrays_02_Laço_For.AssemblyInfoInputs.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Arrays_02\obj\Debug\net6.0\Arrays_02_Laço_For.AssemblyInfo.cs
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Arrays_02\obj\Debug\net6.0\Arrays_02_Laço_For.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Arrays_02\obj\Debug\net6.0\Arrays_02_Laço_For.dll
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Arrays_02\obj\Debug\net6.0\refint\Arrays_02_Laço_For.dll
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Arrays_02\obj\Debug\net6.0\Arrays_02_Laço_For.pdb
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Arrays_02\obj\Debug\net6.0\Arrays_02_Laço_For.genruntimeconfig.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Arrays_02\obj\Debug\net6.0\ref\Arrays_02_Laço_For.dll

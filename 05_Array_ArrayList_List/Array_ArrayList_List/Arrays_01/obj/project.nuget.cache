@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Of+xgIGFhlqnzKyqFJ9p+JM4ANVZukjsacb+usQUIK2jzt3gWokDalhNDuZuzmxRlloNxEaG9xPmyXEUDwvebg==",
+  "dgSpecHash": "U226B8gWtPxsryRA9g1HM/AG9EhmI2qM5bi5mWZ4F0wvSf5JyOx4RhYljodwHu9Sb5S8YyPylgS3hP/cQ9jGrA==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\Arrays_01\\Arrays_01.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
   "logs": []
 }
