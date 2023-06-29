@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_ArrayList_List", "Array_ArrayList_List\Array_ArrayList_List.csproj", "{5F62D480-2502-4CE0-88C7-BE3F39DD51B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_ArrayList_List", "Array_ArrayList_List\Array_ArrayList_List.csproj", "{5F62D480-2502-4CE0-88C7-BE3F39DD51B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_01", "Arrays_01\Arrays_01.csproj", "{CAAE0966-6883-4FFD-8BE8-5AD1461F4271}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_01", "Arrays_01\Arrays_01.csproj", "{CAAE0966-6883-4FFD-8BE8-5AD1461F4271}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_02_Laço_For", "Arrays_02\Arrays_02_Laço_For.csproj", "{E1CC155F-09C9-4BDD-BCB2-EBA18AC43DBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_02_Laço_For", "Arrays_02\Arrays_02_Laço_For.csproj", "{E1CC155F-09C9-4BDD-BCB2-EBA18AC43DBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_03_ForEach", "Arrays_03_ForEach\Arrays_03_ForEach.csproj", "{3F344598-44E3-48E7-B73F-C960AA0DCDAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{E1CC155F-09C9-4BDD-BCB2-EBA18AC43DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1CC155F-09C9-4BDD-BCB2-EBA18AC43DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1CC155F-09C9-4BDD-BCB2-EBA18AC43DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F344598-44E3-48E7-B73F-C960AA0DCDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F344598-44E3-48E7-B73F-C960AA0DCDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F344598-44E3-48E7-B73F-C960AA0DCDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F344598-44E3-48E7-B73F-C960AA0DCDAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
