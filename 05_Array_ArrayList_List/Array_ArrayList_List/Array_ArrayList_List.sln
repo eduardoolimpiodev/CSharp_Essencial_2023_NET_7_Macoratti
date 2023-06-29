@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc√≠cio_Arrays", "Exerc√
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modificador_Params", "Modificador_Params\Modificador_Params.csproj", "{3FB38579-12A9-4B42-B71F-AF4F6212415B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_Multidimensionais_01", "Arrays_Multidimensionais_01\Arrays_Multidimensionais_01.csproj", "{4232B568-F175-470B-98A4-483108178626}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3FB38579-12A9-4B42-B71F-AF4F6212415B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FB38579-12A9-4B42-B71F-AF4F6212415B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FB38579-12A9-4B42-B71F-AF4F6212415B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4232B568-F175-470B-98A4-483108178626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4232B568-F175-470B-98A4-483108178626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4232B568-F175-470B-98A4-483108178626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4232B568-F175-470B-98A4-483108178626}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
