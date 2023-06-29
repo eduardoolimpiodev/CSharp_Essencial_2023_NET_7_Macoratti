@@ -1,0 +1,15 @@
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Array\bin\Debug\net6.0\Classe_Array.exe
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Array\bin\Debug\net6.0\Classe_Array.deps.json
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Array\bin\Debug\net6.0\Classe_Array.runtimeconfig.json
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Array\bin\Debug\net6.0\Classe_Array.dll
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Array\bin\Debug\net6.0\Classe_Array.pdb
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Array\obj\Debug\net6.0\Classe_Array.csproj.AssemblyReference.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Array\obj\Debug\net6.0\Classe_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Array\obj\Debug\net6.0\Classe_Array.AssemblyInfoInputs.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Array\obj\Debug\net6.0\Classe_Array.AssemblyInfo.cs
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Array\obj\Debug\net6.0\Classe_Array.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Array\obj\Debug\net6.0\Classe_Array.dll
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Array\obj\Debug\net6.0\refint\Classe_Array.dll
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Array\obj\Debug\net6.0\Classe_Array.pdb
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Array\obj\Debug\net6.0\Classe_Array.genruntimeconfig.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Array\obj\Debug\net6.0\ref\Classe_Array.dll
