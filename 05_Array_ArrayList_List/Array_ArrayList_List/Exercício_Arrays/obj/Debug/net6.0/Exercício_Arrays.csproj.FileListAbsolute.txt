@@ -1,0 +1,15 @@
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Exercício_Arrays\bin\Debug\net6.0\Exercício_Arrays.exe
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Exercício_Arrays\bin\Debug\net6.0\Exercício_Arrays.deps.json
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Exercício_Arrays\bin\Debug\net6.0\Exercício_Arrays.runtimeconfig.json
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Exercício_Arrays\bin\Debug\net6.0\Exercício_Arrays.dll
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Exercício_Arrays\bin\Debug\net6.0\Exercício_Arrays.pdb
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Exercício_Arrays\obj\Debug\net6.0\Exercício_Arrays.csproj.AssemblyReference.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Exercício_Arrays\obj\Debug\net6.0\Exercício_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Exercício_Arrays\obj\Debug\net6.0\Exercício_Arrays.AssemblyInfoInputs.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Exercício_Arrays\obj\Debug\net6.0\Exercício_Arrays.AssemblyInfo.cs
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Exercício_Arrays\obj\Debug\net6.0\Exercício_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Exercício_Arrays\obj\Debug\net6.0\Exercício_Arrays.dll
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Exercício_Arrays\obj\Debug\net6.0\refint\Exercício_Arrays.dll
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Exercício_Arrays\obj\Debug\net6.0\Exercício_Arrays.pdb
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Exercício_Arrays\obj\Debug\net6.0\Exercício_Arrays.genruntimeconfig.cache
+C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Exercício_Arrays\obj\Debug\net6.0\ref\Exercício_Arrays.dll
