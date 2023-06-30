@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Arrays_Multidimensionais_02_For_e_FOrEach/1.0.0": {
+        "runtime": {
+          "Arrays_Multidimensionais_02_For_e_FOrEach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays_Multidimensionais_02_For_e_FOrEach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
