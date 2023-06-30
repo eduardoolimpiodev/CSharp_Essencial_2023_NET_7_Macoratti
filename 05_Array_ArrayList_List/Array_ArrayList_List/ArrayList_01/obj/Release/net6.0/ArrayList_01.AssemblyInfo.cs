@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Arrays_Multidimensionais_02_For_e_FOrEach")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ArrayList_01")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Arrays_Multidimensionais_02_For_e_FOrEach")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Arrays_Multidimensionais_02_For_e_FOrEach")]
+[assembly: System.Reflection.AssemblyProductAttribute("ArrayList_01")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ArrayList_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
