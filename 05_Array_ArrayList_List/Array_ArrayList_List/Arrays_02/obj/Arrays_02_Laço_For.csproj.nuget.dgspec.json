@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\Arrays_02\\Arrays_02_Laço_For.csproj": {}
+    "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\Arrays_02\\Arrays_02_Laço_For.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\Arrays_02\\Arrays_02_Laço_For.csproj": {
+    "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\Arrays_02\\Arrays_02_Laço_For.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\Arrays_02\\Arrays_02_Laço_For.csproj",
+        "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\Arrays_02\\Arrays_02_Laço_For.csproj",
         "projectName": "Arrays_02_Laço_For",
-        "projectPath": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\Arrays_02\\Arrays_02_Laço_For.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\Arrays_02\\obj\\",
+        "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\Arrays_02\\Arrays_02_Laço_For.csproj",
+        "packagesPath": "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\Arrays_02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eduardo Olimpio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,30 +50,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.19, 6.0.19]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.19, 6.0.19]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.19, 6.0.19]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.19, 6.0.19]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

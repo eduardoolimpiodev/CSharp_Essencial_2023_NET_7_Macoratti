@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N55+yWrXLLhgQ+8dviwd7AttyRDB6DbYCKR5e1MpRTi1T3k/l3sdQy+mXJ6JnrTroPJlcwbmC8i2YxzK5dd+lw==",
+  "dgSpecHash": "WiWM72CSPaMI/5bjRfqO7n9slPVEdb99JuMTaOCMNcCPnNxy57JaHx3n4dTSJAfVoJ0YOxZd/++XG+WaPXeBfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\ArrayList_01\\Array_List_01.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\ArrayList_01\\Array_List_01.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

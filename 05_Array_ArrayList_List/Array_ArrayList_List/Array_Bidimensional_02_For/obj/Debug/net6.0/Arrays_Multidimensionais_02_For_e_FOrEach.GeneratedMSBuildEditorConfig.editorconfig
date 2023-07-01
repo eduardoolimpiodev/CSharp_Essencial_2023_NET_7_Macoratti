@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Arrays_Multidimensionais_02_For_e_FOrEach
-build_property.ProjectDir = C:\Users\user\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Array_Bidimensional_02_For\
+build_property.RootNamespace = Arrays_Multidimensionais_02_For_e_ForEach
+build_property.ProjectDir = C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Array_Bidimensional_02_For\

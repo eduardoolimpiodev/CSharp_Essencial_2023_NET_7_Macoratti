@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bZpYXNBFxi5jjqzYbTPCmnc4gaWPzLFDstenT1i4vBa4ij0M3Nkh3+iaZmxn8ad7YL3Zfb8YtQPo9xNeQK/DgA==",
+  "dgSpecHash": "CuP6awEPFAbgnIe3dbZP0QJHZfqBjlR/+W0McGMnlw+ssvMwigQ37T1W+gWn3p5W/EUAww9OMqb6OqBrqIhd2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\Array_List_02_Adicionar_Elementos\\Array_List_02_Adicionar_Elementos.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\Array_List_02_Adicionar_Elementos\\Array_List_02_Adicionar_Elementos.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
