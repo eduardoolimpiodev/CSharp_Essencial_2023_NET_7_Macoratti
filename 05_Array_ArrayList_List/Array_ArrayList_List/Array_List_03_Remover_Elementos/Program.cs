@@ -21,4 +21,4 @@ lista.RemoveAt(4);
 
 lista.RemoveRange(0, 2);
 
-Console.ReadKey();
+ Console.ReadKey();
