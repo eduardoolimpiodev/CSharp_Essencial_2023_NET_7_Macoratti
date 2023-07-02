@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_List_04_Verificar_Ele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_List_T_01", "Colecao_List_T_01\Colecao_List_T_01.csproj", "{B468A3F6-885B-4FFB-AC31-ACAEA05F68B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_List_T_02", "Colecao_List_T_02\Colecao_List_T_02.csproj", "{ABFCF03D-98C0-4CF8-A9B3-6FA132CDF3C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{B468A3F6-885B-4FFB-AC31-ACAEA05F68B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B468A3F6-885B-4FFB-AC31-ACAEA05F68B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B468A3F6-885B-4FFB-AC31-ACAEA05F68B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABFCF03D-98C0-4CF8-A9B3-6FA132CDF3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFCF03D-98C0-4CF8-A9B3-6FA132CDF3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFCF03D-98C0-4CF8-A9B3-6FA132CDF3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFCF03D-98C0-4CF8-A9B3-6FA132CDF3C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
