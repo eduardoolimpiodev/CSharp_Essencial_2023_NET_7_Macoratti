@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_List_02_Adicionar_Ele
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_List_03_Remover_Elementos", "Array_List_03_Remover_Elementos\Array_List_03_Remover_Elementos.csproj", "{BD993E47-997E-43ED-8232-0E95CB8F9299}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_List_04_Verificar_Elemento", "Array_List_04_Verificar_Elemento\Array_List_04_Verificar_Elemento.csproj", "{50BA2045-7454-4813-AC24-6BDEE59DE3FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_List_04_Verificar_Elemento", "Array_List_04_Verificar_Elemento\Array_List_04_Verificar_Elemento.csproj", "{50BA2045-7454-4813-AC24-6BDEE59DE3FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_List_T_01", "Colecao_List_T_01\Colecao_List_T_01.csproj", "{B468A3F6-885B-4FFB-AC31-ACAEA05F68B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{50BA2045-7454-4813-AC24-6BDEE59DE3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50BA2045-7454-4813-AC24-6BDEE59DE3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50BA2045-7454-4813-AC24-6BDEE59DE3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B468A3F6-885B-4FFB-AC31-ACAEA05F68B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B468A3F6-885B-4FFB-AC31-ACAEA05F68B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B468A3F6-885B-4FFB-AC31-ACAEA05F68B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B468A3F6-885B-4FFB-AC31-ACAEA05F68B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
