@@ -119,6 +119,22 @@ for (int i = 0; i < listaFor.Count; i++)
     Console.WriteLine($"{listaFor[i]}");
 }
 
+Console.WriteLine("");
+
+
+//Iteração usando o Laço forEach:
+//Não precisamos usar índices.
+Console.WriteLine("Iteração usando o laço forEach\n");
+
+var listaForEach = new List<string>()
+{
+    "Maria", "Eduardo", "Marcele", "Paula", "Roberta", "Roberto"
+};
+
+foreach (var item in listaForEach)
+{
+    Console.WriteLine(item);
+}
 
 
 
