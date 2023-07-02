@@ -157,4 +157,47 @@ Console.WriteLine(resposta03);
 Console.WriteLine(listaVerificada.Contains("Eduardo"));
 
 
+Console.WriteLine("");
+Console.WriteLine("Ordenação e Remoção de todos os elementos da coleção:");
+
+//Ordenação e Remoção de todos os elementos da coleção:
+//Utilizamos o método Sort() para ordenar uma List<T> com elementos do mesmo tipo na ordem ascendente.
+//Usa algorítimo QuickSort para classificar os elementos da List<T>.
+
+var listaOrdenada = new List<string>()
+{
+    "Eduardo", "Ramos", "Junqueira", "Olimpio"
+};
+
+Console.WriteLine("Lista Original");
+ExibirLista(listaOrdenada);
+
+Console.WriteLine("");
+
+Console.WriteLine("Lista Ordenada");
+listaOrdenada.Sort();
+ExibirLista(listaOrdenada);
+
+
+
+//Remover todos so elementos de uma List<T> sem alterar sua capacidade usamos o método Clear().
+
+Console.WriteLine("");
+Console.WriteLine("Remover todos so elementos com Clear().");
+
+listaOrdenada.Clear();
+ExibirLista(listaOrdenada);
+Console.WriteLine(listaOrdenada.Count + " items. ");
+
 Console.ReadKey();
+
+
+//Ordenação com Sort():
+
+static void ExibirLista(List<string> listaOrdenada)
+{
+    foreach (var item in listaOrdenada)
+    {
+        Console.WriteLine(item);
+    }
+}
