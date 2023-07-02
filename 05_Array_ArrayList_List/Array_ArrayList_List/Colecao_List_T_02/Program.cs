@@ -136,7 +136,25 @@ foreach (var item in listaForEach)
     Console.WriteLine(item);
 }
 
+Console.WriteLine("");
+Console.WriteLine("Verificando elementos na coleção:");
 
+//Verificar se um elemento está na coleção:
+//Utilizamos o método Contains() para determinar se um elemento especificado existe na List<T> ou não. O método retorna True ou False.
+
+var listaVerificada = new List<string>()
+{
+    "Eduardo", "Ramos", "Junqueira", "Olimpio"
+};
+
+var resposta01 = listaVerificada.Contains("Edu");
+var resposta02 = listaVerificada.Contains("Junqueira");
+var resposta03 = listaVerificada.Contains("Manoel");
+
+Console.WriteLine(resposta01);
+Console.WriteLine(resposta02);
+Console.WriteLine(resposta03);
+Console.WriteLine(listaVerificada.Contains("Eduardo"));
 
 
 Console.ReadKey();
