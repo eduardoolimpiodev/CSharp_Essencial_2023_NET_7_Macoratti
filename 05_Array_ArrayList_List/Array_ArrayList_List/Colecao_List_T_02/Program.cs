@@ -106,8 +106,18 @@ Console.WriteLine(listaString[2]);
 Console.WriteLine("");
 
 //Iteração usando o Laço For:
+//Count é igual ao número total de elementos da List<T>.
 Console.WriteLine("Iteração usando o laço for\n");
 
+var listaFor = new List<string>()
+{
+    "Maria", "Eduardo", "Marcele", "Paula", "Roberta", "Roberto"
+};
+
+for (int i = 0; i < listaFor.Count; i++)
+{
+    Console.WriteLine($"{listaFor[i]}");
+}
 
 
 
