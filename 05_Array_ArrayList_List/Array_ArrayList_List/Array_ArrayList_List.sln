@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_List_T_01", "Coleca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_List_T_02", "Colecao_List_T_02\Colecao_List_T_02.csproj", "{ABFCF03D-98C0-4CF8-A9B3-6FA132CDF3C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_e_ArrayList", "List_e_ArrayList\List_e_ArrayList.csproj", "{8B1B282D-745D-4BF8-8288-548CD71F6CA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{ABFCF03D-98C0-4CF8-A9B3-6FA132CDF3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABFCF03D-98C0-4CF8-A9B3-6FA132CDF3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABFCF03D-98C0-4CF8-A9B3-6FA132CDF3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1B282D-745D-4BF8-8288-548CD71F6CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1B282D-745D-4BF8-8288-548CD71F6CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1B282D-745D-4BF8-8288-548CD71F6CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1B282D-745D-4BF8-8288-548CD71F6CA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
