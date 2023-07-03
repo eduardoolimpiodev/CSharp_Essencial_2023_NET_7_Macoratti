@@ -31,13 +31,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_List_03_Remover_Eleme
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_List_04_Verificar_Elemento", "Array_List_04_Verificar_Elemento\Array_List_04_Verificar_Elemento.csproj", "{50BA2045-7454-4813-AC24-6BDEE59DE3FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_List_T_01", "Colecao_List_T_01\Colecao_List_T_01.csproj", "{B468A3F6-885B-4FFB-AC31-ACAEA05F68B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecao_List_T_01", "Colecao_List_T_01\Colecao_List_T_01.csproj", "{B468A3F6-885B-4FFB-AC31-ACAEA05F68B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_List_T_02", "Colecao_List_T_02\Colecao_List_T_02.csproj", "{ABFCF03D-98C0-4CF8-A9B3-6FA132CDF3C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecao_List_T_02", "Colecao_List_T_02\Colecao_List_T_02.csproj", "{ABFCF03D-98C0-4CF8-A9B3-6FA132CDF3C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_e_ArrayList", "List_e_ArrayList\List_e_ArrayList.csproj", "{8B1B282D-745D-4BF8-8288-548CD71F6CA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List_e_ArrayList", "List_e_ArrayList\List_e_ArrayList.csproj", "{8B1B282D-745D-4BF8-8288-548CD71F6CA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_List_T_Metodo_Find", "List_T_Metodo_Find\Colecao_List_T_Metodo_Find.csproj", "{B1957AAC-46A6-4923-B453-7D37404410E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecao_List_T_Metodo_Find", "List_T_Metodo_Find\Colecao_List_T_Metodo_Find.csproj", "{B1957AAC-46A6-4923-B453-7D37404410E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_List_T_Metodo_Find_Lambda", "Colecao_List_T_Metodo_Find_Lambda\Colecao_List_T_Metodo_Find_Lambda.csproj", "{6FC43FE2-42D5-49FF-93C5-1FED61F27F03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{B1957AAC-46A6-4923-B453-7D37404410E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1957AAC-46A6-4923-B453-7D37404410E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1957AAC-46A6-4923-B453-7D37404410E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC43FE2-42D5-49FF-93C5-1FED61F27F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC43FE2-42D5-49FF-93C5-1FED61F27F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC43FE2-42D5-49FF-93C5-1FED61F27F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC43FE2-42D5-49FF-93C5-1FED61F27F03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

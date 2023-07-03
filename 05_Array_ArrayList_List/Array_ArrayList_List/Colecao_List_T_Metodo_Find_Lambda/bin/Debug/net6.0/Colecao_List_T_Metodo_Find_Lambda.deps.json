@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Colecao_List_T_Metodo_Find_Lambda/1.0.0": {
+        "runtime": {
+          "Colecao_List_T_Metodo_Find_Lambda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Colecao_List_T_Metodo_Find_Lambda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
