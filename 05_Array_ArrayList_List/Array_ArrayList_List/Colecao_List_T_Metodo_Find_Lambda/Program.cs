@@ -36,9 +36,9 @@ Console.WriteLine(fruta2);
 
 Console.WriteLine("");
 
-//FindLast com Lambda Expression.
+//FindLast com Lambda Expression: Retorna a última ocorrência que atende o critério.
 Console.WriteLine("FindLast com Lambda Expression");
-var fruta3 = frutas.FindLast(f => frutas.Contains("n"));
+var fruta3 = frutas.FindLast(f => f.Contains("n"));
 Console.WriteLine($"\nFindLast : {fruta3}");
 
 
