@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Array_ArrayList_List",
-    "\\Array_ArrayList_List\\Array_List_03_Remover_Elementos"
+    "\\Array_ArrayList_List\\Array_List_03_Remover_Elementos",
+    "\\Array_ArrayList_List\\Array_List_04_Verificar_Elemento"
   ],
-  "SelectedNode": "\\Array_ArrayList_List\\Array_List_03_Remover_Elementos\\Program.cs",
+  "SelectedNode": "\\Array_ArrayList_List\\Array_List_04_Verificar_Elemento\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
