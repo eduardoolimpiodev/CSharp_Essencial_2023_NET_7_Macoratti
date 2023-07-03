@@ -50,6 +50,15 @@ Console.WriteLine($"\nFindIndex : indice = {fruta4} item = {frutas[fruta4]}");
 var fruta5 = frutas.FindLastIndex(f => f.Contains("n"));
 Console.WriteLine($"\nFindLastIndex : indice = {fruta5} item = {frutas[fruta5]}");
 
+
+Console.WriteLine("Exibindo o resultado de FindAll:\n");
+//Retorna todos os elementos que atendem o critério.
+var frutas6 = frutas.FindAll(f => f.Contains("n"));
+foreach(var fruta in frutas6)
+{
+    Console.Write($"\nFindAll : {fruta}");
+}
+
 Console.ReadKey();
 
 static bool Procura(string item)
