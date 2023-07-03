@@ -42,6 +42,13 @@ var fruta3 = frutas.FindLast(f => f.Contains("n"));
 Console.WriteLine($"\nFindLast : {fruta3}");
 
 
+//FindIndex -> Retorna o índice da primeira ocorrência.
+var fruta4 = frutas.FindIndex(f => f.Contains("n"));
+Console.WriteLine($"\nFindIndex : indice = {fruta4} item = {frutas[fruta4]}");
+
+//FindLastIndex -> Retorna o índice da última ocorrência.
+var fruta5 = frutas.FindLastIndex(f => f.Contains("n"));
+Console.WriteLine($"\nFindLastIndex : indice = {fruta5} item = {frutas[fruta5]}");
 
 Console.ReadKey();
 
