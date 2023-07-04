@@ -39,9 +39,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List_e_ArrayList", "List_e_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecao_List_T_Metodo_Find", "List_T_Metodo_Find\Colecao_List_T_Metodo_Find.csproj", "{B1957AAC-46A6-4923-B453-7D37404410E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_List_T_Metodo_Find_Lambda", "Colecao_List_T_Metodo_Find_Lambda\Colecao_List_T_Metodo_Find_Lambda.csproj", "{6FC43FE2-42D5-49FF-93C5-1FED61F27F03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecao_List_T_Metodo_Find_Lambda", "Colecao_List_T_Metodo_Find_Lambda\Colecao_List_T_Metodo_Find_Lambda.csproj", "{6FC43FE2-42D5-49FF-93C5-1FED61F27F03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_T_e_IEnumerable", "List_T_e_IEnumerable\List_T_e_IEnumerable.csproj", "{DFB908EE-11FD-46EA-8C99-026DB1FE1235}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List_T_e_IEnumerable", "List_T_e_IEnumerable\List_T_e_IEnumerable.csproj", "{DFB908EE-11FD-46EA-8C99-026DB1FE1235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_T_Exercicio", "List_T_Exercicio\List_T_Exercicio.csproj", "{C344F2EC-4DAE-4447-87F5-2567D2B118E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{DFB908EE-11FD-46EA-8C99-026DB1FE1235}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFB908EE-11FD-46EA-8C99-026DB1FE1235}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFB908EE-11FD-46EA-8C99-026DB1FE1235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C344F2EC-4DAE-4447-87F5-2567D2B118E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C344F2EC-4DAE-4447-87F5-2567D2B118E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C344F2EC-4DAE-4447-87F5-2567D2B118E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C344F2EC-4DAE-4447-87F5-2567D2B118E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
