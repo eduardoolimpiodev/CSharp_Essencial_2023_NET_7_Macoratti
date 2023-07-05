@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Heranca", "POO_Heranca\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Heranca_Construtores", "POO_Heranca_Construtores\POO_Heranca_Construtores.csproj", "{F5C66750-78FF-4AA5-93EA-3D3EF6F5218E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Heranca_e_Object", "POO_Heranca_e_Object\POO_Heranca_e_Object.csproj", "{73B4E3C8-8917-4365-A373-BF04A6BCB75E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F5C66750-78FF-4AA5-93EA-3D3EF6F5218E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5C66750-78FF-4AA5-93EA-3D3EF6F5218E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5C66750-78FF-4AA5-93EA-3D3EF6F5218E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B4E3C8-8917-4365-A373-BF04A6BCB75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B4E3C8-8917-4365-A373-BF04A6BCB75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B4E3C8-8917-4365-A373-BF04A6BCB75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B4E3C8-8917-4365-A373-BF04A6BCB75E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Heranca_e_Object\bin\Debug\net6.0\POO_Heranca_e_Object.exe
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Heranca_e_Object\bin\Debug\net6.0\POO_Heranca_e_Object.deps.json
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Heranca_e_Object\bin\Debug\net6.0\POO_Heranca_e_Object.runtimeconfig.json
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Heranca_e_Object\bin\Debug\net6.0\POO_Heranca_e_Object.dll
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Heranca_e_Object\bin\Debug\net6.0\POO_Heranca_e_Object.pdb
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Heranca_e_Object\obj\Debug\net6.0\POO_Heranca_e_Object.csproj.AssemblyReference.cache
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Heranca_e_Object\obj\Debug\net6.0\POO_Heranca_e_Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Heranca_e_Object\obj\Debug\net6.0\POO_Heranca_e_Object.AssemblyInfoInputs.cache
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Heranca_e_Object\obj\Debug\net6.0\POO_Heranca_e_Object.AssemblyInfo.cs
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Heranca_e_Object\obj\Debug\net6.0\POO_Heranca_e_Object.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Heranca_e_Object\obj\Debug\net6.0\POO_Heranca_e_Object.dll
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Heranca_e_Object\obj\Debug\net6.0\refint\POO_Heranca_e_Object.dll
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Heranca_e_Object\obj\Debug\net6.0\POO_Heranca_e_Object.pdb
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Heranca_e_Object\obj\Debug\net6.0\POO_Heranca_e_Object.genruntimeconfig.cache
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Heranca_e_Object\obj\Debug\net6.0\ref\POO_Heranca_e_Object.dll
