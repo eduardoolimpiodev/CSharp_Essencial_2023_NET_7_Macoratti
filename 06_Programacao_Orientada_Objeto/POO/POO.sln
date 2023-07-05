@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Heranca_e_Object", "POO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Heranca_e_New", "POO_Heranca_e_New\POO_Heranca_e_New.csproj", "{0421CE2E-6E24-4F4E-8568-66A61D7A6BDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Heranca_Virtual_e_Override", "POO_Heranca_Virtual_e_Override\POO_Heranca_Virtual_e_Override.csproj", "{868CB22E-88C3-452B-B38E-EE61C1BA1E8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0421CE2E-6E24-4F4E-8568-66A61D7A6BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0421CE2E-6E24-4F4E-8568-66A61D7A6BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0421CE2E-6E24-4F4E-8568-66A61D7A6BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868CB22E-88C3-452B-B38E-EE61C1BA1E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868CB22E-88C3-452B-B38E-EE61C1BA1E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868CB22E-88C3-452B-B38E-EE61C1BA1E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868CB22E-88C3-452B-B38E-EE61C1BA1E8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
