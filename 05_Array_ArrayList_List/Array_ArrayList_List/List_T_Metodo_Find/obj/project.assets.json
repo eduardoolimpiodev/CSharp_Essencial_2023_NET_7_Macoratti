@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\": {}
+    "C:\\Users\\eduardo.olimpio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\List_T_Metodo_Find\\Colecao_List_T_Metodo_Find.csproj",
+      "projectUniqueName": "C:\\Users\\eduardo.olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\List_T_Metodo_Find\\Colecao_List_T_Metodo_Find.csproj",
       "projectName": "Colecao_List_T_Metodo_Find",
-      "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\List_T_Metodo_Find\\Colecao_List_T_Metodo_Find.csproj",
-      "packagesPath": "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\List_T_Metodo_Find\\obj\\",
+      "projectPath": "C:\\Users\\eduardo.olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\List_T_Metodo_Find\\Colecao_List_T_Metodo_Find.csproj",
+      "packagesPath": "C:\\Users\\eduardo.olimpio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eduardo.olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\05_Array_ArrayList_List\\Array_ArrayList_List\\List_T_Metodo_Find\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Eduardo Olimpio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eduardo.olimpio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
