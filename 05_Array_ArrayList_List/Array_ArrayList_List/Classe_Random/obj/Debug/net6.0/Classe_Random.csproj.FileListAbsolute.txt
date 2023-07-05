@@ -1,0 +1,15 @@
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Random\bin\Debug\net6.0\Classe_Random.exe
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Random\bin\Debug\net6.0\Classe_Random.deps.json
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Random\bin\Debug\net6.0\Classe_Random.runtimeconfig.json
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Random\bin\Debug\net6.0\Classe_Random.dll
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Random\bin\Debug\net6.0\Classe_Random.pdb
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Random\obj\Debug\net6.0\Classe_Random.csproj.AssemblyReference.cache
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Random\obj\Debug\net6.0\Classe_Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Random\obj\Debug\net6.0\Classe_Random.AssemblyInfoInputs.cache
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Random\obj\Debug\net6.0\Classe_Random.AssemblyInfo.cs
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Random\obj\Debug\net6.0\Classe_Random.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Random\obj\Debug\net6.0\Classe_Random.dll
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Random\obj\Debug\net6.0\refint\Classe_Random.dll
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Random\obj\Debug\net6.0\Classe_Random.pdb
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Random\obj\Debug\net6.0\Classe_Random.genruntimeconfig.cache
+C:\Users\eduardo.olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\05_Array_ArrayList_List\Array_ArrayList_List\Classe_Random\obj\Debug\net6.0\ref\Classe_Random.dll
