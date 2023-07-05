@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "POO\POO.csproj", "{221779F5-3B7C-44FC-B333-3C37198D36B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Heranca", "POO_Heranca\POO_Heranca.csproj", "{D8CF02BA-BD7B-4AA6-A009-6B42AA9CCEC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{221779F5-3B7C-44FC-B333-3C37198D36B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{221779F5-3B7C-44FC-B333-3C37198D36B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{221779F5-3B7C-44FC-B333-3C37198D36B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8CF02BA-BD7B-4AA6-A009-6B42AA9CCEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CF02BA-BD7B-4AA6-A009-6B42AA9CCEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8CF02BA-BD7B-4AA6-A009-6B42AA9CCEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8CF02BA-BD7B-4AA6-A009-6B42AA9CCEC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
