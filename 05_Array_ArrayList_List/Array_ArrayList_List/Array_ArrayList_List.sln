@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecao_List_T_Metodo_Find_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List_T_e_IEnumerable", "List_T_e_IEnumerable\List_T_e_IEnumerable.csproj", "{DFB908EE-11FD-46EA-8C99-026DB1FE1235}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_T_Exercicio", "List_T_Exercicio\List_T_Exercicio.csproj", "{C344F2EC-4DAE-4447-87F5-2567D2B118E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List_T_Exercicio", "List_T_Exercicio\List_T_Exercicio.csproj", "{C344F2EC-4DAE-4447-87F5-2567D2B118E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexadores", "Indexadores\Indexadores.csproj", "{2DB42E7A-318A-4A7E-B5CC-9F0A097C5BCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{C344F2EC-4DAE-4447-87F5-2567D2B118E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C344F2EC-4DAE-4447-87F5-2567D2B118E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C344F2EC-4DAE-4447-87F5-2567D2B118E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB42E7A-318A-4A7E-B5CC-9F0A097C5BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB42E7A-318A-4A7E-B5CC-9F0A097C5BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB42E7A-318A-4A7E-B5CC-9F0A097C5BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB42E7A-318A-4A7E-B5CC-9F0A097C5BCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
