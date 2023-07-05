@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexadores", "Indexadores\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classe_Random", "Classe_Random\Classe_Random.csproj", "{27325B12-62F6-448A-8361-040003EC554F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classe_Random_Exercicio", "Classe_Random_Exercicio\Classe_Random_Exercicio.csproj", "{728A512C-746B-47BA-AC58-7BEDB4183AFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{27325B12-62F6-448A-8361-040003EC554F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27325B12-62F6-448A-8361-040003EC554F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27325B12-62F6-448A-8361-040003EC554F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728A512C-746B-47BA-AC58-7BEDB4183AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728A512C-746B-47BA-AC58-7BEDB4183AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728A512C-746B-47BA-AC58-7BEDB4183AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728A512C-746B-47BA-AC58-7BEDB4183AFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
