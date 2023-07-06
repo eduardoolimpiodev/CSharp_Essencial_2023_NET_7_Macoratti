@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "POO_Modificador_Sealed/1.0.0": {
+        "runtime": {
+          "POO_Modificador_Sealed.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO_Modificador_Sealed/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
