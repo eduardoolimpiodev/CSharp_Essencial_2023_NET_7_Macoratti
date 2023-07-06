@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\POO",
+    "\\POO\\POO_Modificador_Sealed"
   ],
+  "SelectedNode": "\\POO\\POO_Modificador_Sealed\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
