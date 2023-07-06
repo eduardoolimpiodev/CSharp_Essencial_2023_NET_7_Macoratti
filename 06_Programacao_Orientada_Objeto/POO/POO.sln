@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Heranca_Virtual_e_Overr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Modificador_Sealed", "POO_Modificador_Sealed\POO_Modificador_Sealed.csproj", "{731093E5-EB58-4DF2-9893-AAF2353D938D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Heranca_Exercicio", "POO_Heranca_Exercicio\POO_Heranca_Exercicio.csproj", "{0FCF4D89-1907-40CE-A3D1-8A9999649914}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Heranca_Exercicio", "POO_Heranca_Exercicio\POO_Heranca_Exercicio.csproj", "{0FCF4D89-1907-40CE-A3D1-8A9999649914}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Heranca_Tipos_de_Heranca", "POO_Heranca_Tipos_de_Heranca\POO_Heranca_Tipos_de_Heranca.csproj", "{055BC54C-D560-4A2F-A875-58A678404FBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Heranca_Tipos_de_Heranca", "POO_Heranca_Tipos_de_Heranca\POO_Heranca_Tipos_de_Heranca.csproj", "{055BC54C-D560-4A2F-A875-58A678404FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Heranca_Downcasting_e_Upcasting", "POO_Heranca_Downcasting_e_Upcasting\POO_Heranca_Downcasting_e_Upcasting.csproj", "{22909FF4-0D89-4F56-9829-F8E18DC9D25D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{055BC54C-D560-4A2F-A875-58A678404FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{055BC54C-D560-4A2F-A875-58A678404FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{055BC54C-D560-4A2F-A875-58A678404FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22909FF4-0D89-4F56-9829-F8E18DC9D25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22909FF4-0D89-4F56-9829-F8E18DC9D25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22909FF4-0D89-4F56-9829-F8E18DC9D25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22909FF4-0D89-4F56-9829-F8E18DC9D25D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

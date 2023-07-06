@@ -35,26 +35,48 @@
       <FileName>C.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="POO_Heranca_Tipos_de_Heranca.D" Collapsed="true">
+  <Class Name="POO_Heranca_Tipos_de_Heranca.D">
     <Position X="6.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>D.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="POO_Heranca_Tipos_de_Heranca.E" Collapsed="true">
-    <Position X="6.5" Y="1.5" Width="1.5" />
+  <Class Name="POO_Heranca_Tipos_de_Heranca.E">
+    <Position X="6.5" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>E.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="POO_Heranca_Tipos_de_Heranca.F" Collapsed="true">
-    <Position X="6.5" Y="2.5" Width="1.5" />
+  <Class Name="POO_Heranca_Tipos_de_Heranca.F">
+    <Position X="6.5" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>F.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="POO_Heranca_Tipos_de_Heranca.Quadrado" Collapsed="true">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAAAAAA=</HashCode>
+      <FileName>Quadrado.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="POO_Heranca_Tipos_de_Heranca.Forma" Collapsed="true">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Forma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="POO_Heranca_Tipos_de_Heranca.ICusto" Collapsed="true">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>ICusto.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
