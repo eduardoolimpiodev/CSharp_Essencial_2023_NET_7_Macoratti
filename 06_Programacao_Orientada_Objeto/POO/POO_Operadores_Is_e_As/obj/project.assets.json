@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\eduardo.olimpio\\.nuget\\packages\\": {}
+    "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduardo.olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Operadores_Is_e_As\\POO_Operadores_Is_e_As.csproj",
+      "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Operadores_Is_e_As\\POO_Operadores_Is_e_As.csproj",
       "projectName": "POO_Operadores_Is_e_As",
-      "projectPath": "C:\\Users\\eduardo.olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Operadores_Is_e_As\\POO_Operadores_Is_e_As.csproj",
-      "packagesPath": "C:\\Users\\eduardo.olimpio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eduardo.olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Operadores_Is_e_As\\obj\\",
+      "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Operadores_Is_e_As\\POO_Operadores_Is_e_As.csproj",
+      "packagesPath": "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Operadores_Is_e_As\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\eduardo.olimpio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Eduardo Olimpio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

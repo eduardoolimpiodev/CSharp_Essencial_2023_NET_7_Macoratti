@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\eduardo.olimpio\\.nuget\\packages\\": {}
+    "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduardo.olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Heranca\\POO_Heranca.csproj",
+      "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Heranca\\POO_Heranca.csproj",
       "projectName": "POO_Heranca",
-      "projectPath": "C:\\Users\\eduardo.olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Heranca\\POO_Heranca.csproj",
-      "packagesPath": "C:\\Users\\eduardo.olimpio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eduardo.olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Heranca\\obj\\",
+      "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Heranca\\POO_Heranca.csproj",
+      "packagesPath": "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Heranca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\eduardo.olimpio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Eduardo Olimpio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
