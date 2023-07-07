@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Heranca_Exercicio", "PO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Heranca_Tipos_de_Heranca", "POO_Heranca_Tipos_de_Heranca\POO_Heranca_Tipos_de_Heranca.csproj", "{055BC54C-D560-4A2F-A875-58A678404FBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Heranca_Downcasting_e_Upcasting", "POO_Heranca_Downcasting_e_Upcasting\POO_Heranca_Downcasting_e_Upcasting.csproj", "{22909FF4-0D89-4F56-9829-F8E18DC9D25D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Heranca_Downcasting_e_Upcasting", "POO_Heranca_Downcasting_e_Upcasting\POO_Heranca_Downcasting_e_Upcasting.csproj", "{22909FF4-0D89-4F56-9829-F8E18DC9D25D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Operadores_Is_e_As", "POO_Operadores_Is_e_As\POO_Operadores_Is_e_As.csproj", "{A92A442F-44A0-4B73-BFB3-2BDE7DC43F1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Operadores_Is_e_As", "POO_Operadores_Is_e_As\POO_Operadores_Is_e_As.csproj", "{A92A442F-44A0-4B73-BFB3-2BDE7DC43F1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Classe_Abstrata_01", "POO_Classe_Abstrata_01\POO_Classe_Abstrata_01.csproj", "{F4B4ACD2-E6CB-4438-8B02-6BB12E78CAA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{A92A442F-44A0-4B73-BFB3-2BDE7DC43F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A92A442F-44A0-4B73-BFB3-2BDE7DC43F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A92A442F-44A0-4B73-BFB3-2BDE7DC43F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B4ACD2-E6CB-4438-8B02-6BB12E78CAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B4ACD2-E6CB-4438-8B02-6BB12E78CAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B4ACD2-E6CB-4438-8B02-6BB12E78CAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B4ACD2-E6CB-4438-8B02-6BB12E78CAA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
