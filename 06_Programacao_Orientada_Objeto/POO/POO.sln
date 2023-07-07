@@ -25,15 +25,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Heranca_Downcasting_e_U
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Operadores_Is_e_As", "POO_Operadores_Is_e_As\POO_Operadores_Is_e_As.csproj", "{A92A442F-44A0-4B73-BFB3-2BDE7DC43F1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Classe_Abstrata_01", "POO_Classe_Abstrata_01\POO_Classe_Abstrata_01.csproj", "{F4B4ACD2-E6CB-4438-8B02-6BB12E78CAA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Classe_Abstrata_01", "POO_Classe_Abstrata_01\POO_Classe_Abstrata_01.csproj", "{F4B4ACD2-E6CB-4438-8B02-6BB12E78CAA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Interfaces", "POO_Interfaces\POO_Interfaces.csproj", "{FF6EE4AB-291A-49AC-AA58-360D4EE6ED8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Interfaces", "POO_Interfaces\POO_Interfaces.csproj", "{FF6EE4AB-291A-49AC-AA58-360D4EE6ED8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Interfaces_Exercicio", "POO_Interfaces_Exercicio\POO_Interfaces_Exercicio.csproj", "{C8CDCB7F-3228-44C0-99B0-B51D49C873FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Interfaces_Exercicio", "POO_Interfaces_Exercicio\POO_Interfaces_Exercicio.csproj", "{C8CDCB7F-3228-44C0-99B0-B51D49C873FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Agregacao", "POO_Agregacao\POO_Agregacao.csproj", "{ED870907-7003-4632-A695-917B5676E509}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Agregacao", "POO_Agregacao\POO_Agregacao.csproj", "{ED870907-7003-4632-A695-917B5676E509}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Heranca_Composicao_Exemplo", "POO_Heranca_Composicao_Exemplo\POO_Heranca_Composicao_Exemplo.csproj", "{33C2002E-B1B8-465A-9ADE-D172E1FDB3C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Heranca_Composicao_Exemplo", "POO_Heranca_Composicao_Exemplo\POO_Heranca_Composicao_Exemplo.csproj", "{33C2002E-B1B8-465A-9ADE-D172E1FDB3C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Polimorfismo", "POO_Polimorfismo\POO_Polimorfismo.csproj", "{E9B4EE7E-45A8-4B6F-A237-6338A68CFA1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{33C2002E-B1B8-465A-9ADE-D172E1FDB3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33C2002E-B1B8-465A-9ADE-D172E1FDB3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33C2002E-B1B8-465A-9ADE-D172E1FDB3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B4EE7E-45A8-4B6F-A237-6338A68CFA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B4EE7E-45A8-4B6F-A237-6338A68CFA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B4EE7E-45A8-4B6F-A237-6338A68CFA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B4EE7E-45A8-4B6F-A237-6338A68CFA1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
