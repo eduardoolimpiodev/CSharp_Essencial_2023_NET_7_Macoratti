@@ -29,7 +29,7 @@ public class ClasseGenerica<T>
         contador++;
     }
 
-    //indexador para a iteração da instrução foreach
+    //indexador para a iteração da instrução for
     public T this[int index]
     {
         get { return obj[index];}
