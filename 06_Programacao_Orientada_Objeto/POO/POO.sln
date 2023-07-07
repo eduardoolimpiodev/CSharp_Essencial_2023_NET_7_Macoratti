@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Interfaces_Exercicio", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Agregacao", "POO_Agregacao\POO_Agregacao.csproj", "{ED870907-7003-4632-A695-917B5676E509}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Heranca_Composicao_Exemplo", "POO_Heranca_Composicao_Exemplo\POO_Heranca_Composicao_Exemplo.csproj", "{33C2002E-B1B8-465A-9ADE-D172E1FDB3C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{ED870907-7003-4632-A695-917B5676E509}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED870907-7003-4632-A695-917B5676E509}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED870907-7003-4632-A695-917B5676E509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C2002E-B1B8-465A-9ADE-D172E1FDB3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C2002E-B1B8-465A-9ADE-D172E1FDB3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C2002E-B1B8-465A-9ADE-D172E1FDB3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C2002E-B1B8-465A-9ADE-D172E1FDB3C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
