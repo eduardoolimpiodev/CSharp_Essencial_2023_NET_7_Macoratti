@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Agregacao\bin\Debug\net6.0\POO_Agregacao.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Agregacao\bin\Debug\net6.0\POO_Agregacao.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Agregacao\bin\Debug\net6.0\POO_Agregacao.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Agregacao\bin\Debug\net6.0\POO_Agregacao.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Agregacao\bin\Debug\net6.0\POO_Agregacao.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Agregacao\obj\Debug\net6.0\POO_Agregacao.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Agregacao\obj\Debug\net6.0\POO_Agregacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Agregacao\obj\Debug\net6.0\POO_Agregacao.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Agregacao\obj\Debug\net6.0\POO_Agregacao.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Agregacao\obj\Debug\net6.0\POO_Agregacao.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Agregacao\obj\Debug\net6.0\POO_Agregacao.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Agregacao\obj\Debug\net6.0\refint\POO_Agregacao.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Agregacao\obj\Debug\net6.0\POO_Agregacao.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Agregacao\obj\Debug\net6.0\POO_Agregacao.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Agregacao\obj\Debug\net6.0\ref\POO_Agregacao.dll
