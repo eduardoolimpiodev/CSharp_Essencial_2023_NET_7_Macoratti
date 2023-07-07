@@ -35,7 +35,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Agregacao", "POO_Agrega
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Heranca_Composicao_Exemplo", "POO_Heranca_Composicao_Exemplo\POO_Heranca_Composicao_Exemplo.csproj", "{33C2002E-B1B8-465A-9ADE-D172E1FDB3C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Polimorfismo", "POO_Polimorfismo\POO_Polimorfismo.csproj", "{E9B4EE7E-45A8-4B6F-A237-6338A68CFA1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Polimorfismo_Tempo_Compilacao", "POO_Polimorfismo\POO_Polimorfismo_Tempo_Compilacao.csproj", "{E9B4EE7E-45A8-4B6F-A237-6338A68CFA1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

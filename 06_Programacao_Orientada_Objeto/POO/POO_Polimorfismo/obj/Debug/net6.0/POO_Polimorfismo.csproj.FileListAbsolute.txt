@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Polimorfismo\bin\Debug\net6.0\POO_Polimorfismo.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Polimorfismo\bin\Debug\net6.0\POO_Polimorfismo.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Polimorfismo\bin\Debug\net6.0\POO_Polimorfismo.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Polimorfismo\bin\Debug\net6.0\POO_Polimorfismo.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Polimorfismo\bin\Debug\net6.0\POO_Polimorfismo.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Polimorfismo\obj\Debug\net6.0\POO_Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Polimorfismo\obj\Debug\net6.0\POO_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Polimorfismo\obj\Debug\net6.0\POO_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Polimorfismo\obj\Debug\net6.0\POO_Polimorfismo.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Polimorfismo\obj\Debug\net6.0\POO_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Polimorfismo\obj\Debug\net6.0\POO_Polimorfismo.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Polimorfismo\obj\Debug\net6.0\refint\POO_Polimorfismo.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Polimorfismo\obj\Debug\net6.0\POO_Polimorfismo.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Polimorfismo\obj\Debug\net6.0\POO_Polimorfismo.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\06_Programacao_Orientada_Objeto\POO\POO_Polimorfismo\obj\Debug\net6.0\ref\POO_Polimorfismo.dll

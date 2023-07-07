@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Polimorfismo\\POO_Polimorfismo.csproj",
-      "projectName": "POO_Polimorfismo",
-      "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Polimorfismo\\POO_Polimorfismo.csproj",
+      "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Polimorfismo\\POO_Polimorfismo_Tempo_Compilacao.csproj",
+      "projectName": "POO_Polimorfismo_Tempo_Compilacao",
+      "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Polimorfismo\\POO_Polimorfismo_Tempo_Compilacao.csproj",
       "packagesPath": "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\06_Programacao_Orientada_Objeto\\POO\\POO_Polimorfismo\\obj\\",
       "projectStyle": "PackageReference",
