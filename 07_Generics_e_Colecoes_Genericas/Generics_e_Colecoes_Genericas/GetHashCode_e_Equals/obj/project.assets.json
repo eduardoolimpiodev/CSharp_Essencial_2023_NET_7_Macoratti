@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\07_Generics_e_Colecoes_Genericas\\Generics_e_Colecoes_Genericas\\GetHashCode_e_Equals\\GetHashCode_e_Equals.csproj",
-      "projectName": "GetHashCode_e_Equals",
-      "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\07_Generics_e_Colecoes_Genericas\\Generics_e_Colecoes_Genericas\\GetHashCode_e_Equals\\GetHashCode_e_Equals.csproj",
+      "projectUniqueName": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\07_Generics_e_Colecoes_Genericas\\Generics_e_Colecoes_Genericas\\GetHashCode_e_Equals\\GetHashCode_e_Equals_01.csproj",
+      "projectName": "GetHashCode_e_Equals_01",
+      "projectPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\07_Generics_e_Colecoes_Genericas\\Generics_e_Colecoes_Genericas\\GetHashCode_e_Equals\\GetHashCode_e_Equals_01.csproj",
       "packagesPath": "C:\\Users\\Eduardo Olimpio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Eduardo Olimpio\\Documents\\CSharp_Essencial_2023_NET_7_Macoratti\\07_Generics_e_Colecoes_Genericas\\Generics_e_Colecoes_Genericas\\GetHashCode_e_Equals\\obj\\",
       "projectStyle": "PackageReference",
