@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Generics_e_Colecoes_Genericas"
+    "\\Generics_e_Colecoes_Genericas",
+    "\\Generics_e_Colecoes_Genericas\\GetHashCode_e_Equals_Exemplo"
   ],
-  "SelectedNode": "\\Generics_e_Colecoes_Genericas\\Generics_01.sln",
+  "SelectedNode": "\\Generics_e_Colecoes_Genericas\\GetHashCode_e_Equals_Exemplo\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

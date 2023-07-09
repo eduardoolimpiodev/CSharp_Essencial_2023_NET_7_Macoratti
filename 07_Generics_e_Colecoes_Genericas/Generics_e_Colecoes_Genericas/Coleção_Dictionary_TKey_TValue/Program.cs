@@ -23,6 +23,7 @@
   - ContainsValue(TValue): Determina se o Dictionary<TKey,TValue> atual contém o valor especificado.
   - Remove(TKey): Remove o valor com a chave especificada do Dictionary<TKey,TValue>.
   - TryGetValue(TKey,TValue): Obtém o valor associoado à chave especificada. Se a chave não existir retorna o valor padrão para o tipo do parâmetro TValue.
+
 */
 
 Console.WriteLine("Coleção Genérica - Dictionary<TKey, TValue>\n");

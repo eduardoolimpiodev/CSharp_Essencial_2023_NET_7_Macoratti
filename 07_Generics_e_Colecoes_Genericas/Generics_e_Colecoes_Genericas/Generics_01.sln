@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetHashCode_e_Equals_02", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetHashCode_e_Equals_Exemplo", "GetHashCode_e_Equals_Exemplo\GetHashCode_e_Equals_Exemplo.csproj", "{91A22418-D573-4C63-ADD2-C6E62E67867A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coleção_Dictionary_TKey_TValue", "Coleção_Dictionary_TKey_TValue\Coleção_Dictionary_TKey_TValue.csproj", "{96660D12-B654-41FF-BAC4-7ACA3BDF82EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coleção_Dictionary_TKey_TValue", "Coleção_Dictionary_TKey_TValue\Coleção_Dictionary_TKey_TValue.csproj", "{96660D12-B654-41FF-BAC4-7ACA3BDF82EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_02", "Dictionary_02\Dictionary_02.csproj", "{894854D6-A96F-4347-8893-AFC8A1DE5005}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{96660D12-B654-41FF-BAC4-7ACA3BDF82EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96660D12-B654-41FF-BAC4-7ACA3BDF82EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96660D12-B654-41FF-BAC4-7ACA3BDF82EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894854D6-A96F-4347-8893-AFC8A1DE5005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894854D6-A96F-4347-8893-AFC8A1DE5005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894854D6-A96F-4347-8893-AFC8A1DE5005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894854D6-A96F-4347-8893-AFC8A1DE5005}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
