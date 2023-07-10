@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Generics_e_Colecoes_Genericas",
+    "\\Generics_e_Colecoes_Genericas\\Dictionary_02",
     "\\Generics_e_Colecoes_Genericas\\GetHashCode_e_Equals_Exemplo"
   ],
-  "SelectedNode": "\\Generics_e_Colecoes_Genericas\\GetHashCode_e_Equals_Exemplo\\Program.cs",
+  "SelectedNode": "\\Generics_e_Colecoes_Genericas\\Dictionary_02\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
