@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecao_Set", "Colecao_Set\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_HashSet_Metodos", "Colecao_HashSet_Metodos\Colecao_HashSet_Metodos.csproj", "{98DFE4FD-4CBE-42A8-9217-98119758090A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_SortedSet_T", "Colecao_SortedSet_T\Colecao_SortedSet_T.csproj", "{67CF7712-D354-4E90-95C9-0665FFCB96C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{98DFE4FD-4CBE-42A8-9217-98119758090A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98DFE4FD-4CBE-42A8-9217-98119758090A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98DFE4FD-4CBE-42A8-9217-98119758090A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67CF7712-D354-4E90-95C9-0665FFCB96C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67CF7712-D354-4E90-95C9-0665FFCB96C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67CF7712-D354-4E90-95C9-0665FFCB96C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67CF7712-D354-4E90-95C9-0665FFCB96C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
