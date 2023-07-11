@@ -23,11 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary_02", "Dictionary
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary_Exercicio", "Dictionary_Exercicio\Dictionary_Exercicio.csproj", "{5D63560C-3E38-41A8-A4F2-4957C354CFDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedDictionary_TKey_TValue", "SortedDictionary_TKey_TValue\SortedDictionary_TKey_TValue.csproj", "{28374FD8-40FB-43E4-AB79-01EC1A428FD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedDictionary_TKey_TValue", "SortedDictionary_TKey_TValue\SortedDictionary_TKey_TValue.csproj", "{28374FD8-40FB-43E4-AB79-01EC1A428FD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedDictionary_02", "SortedDictionary_02\SortedDictionary_02.csproj", "{D06C6E34-3353-42F0-92C4-64BDEE59F02F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedDictionary_02", "SortedDictionary_02\SortedDictionary_02.csproj", "{D06C6E34-3353-42F0-92C4-64BDEE59F02F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_Set", "Colecao_Set\Colecao_Set.csproj", "{D8861409-D0B1-4A06-968C-73AE1D15B43A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecao_Set", "Colecao_Set\Colecao_Set.csproj", "{D8861409-D0B1-4A06-968C-73AE1D15B43A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_HashSet_Metodos", "Colecao_HashSet_Metodos\Colecao_HashSet_Metodos.csproj", "{98DFE4FD-4CBE-42A8-9217-98119758090A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{D8861409-D0B1-4A06-968C-73AE1D15B43A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8861409-D0B1-4A06-968C-73AE1D15B43A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8861409-D0B1-4A06-968C-73AE1D15B43A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98DFE4FD-4CBE-42A8-9217-98119758090A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DFE4FD-4CBE-42A8-9217-98119758090A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DFE4FD-4CBE-42A8-9217-98119758090A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DFE4FD-4CBE-42A8-9217-98119758090A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
