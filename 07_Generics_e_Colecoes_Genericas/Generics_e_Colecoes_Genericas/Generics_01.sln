@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_HashSet_Metodos", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_SortedSet_T", "Colecao_SortedSet_T\Colecao_SortedSet_T.csproj", "{67CF7712-D354-4E90-95C9-0665FFCB96C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao_Stack_T", "Colecao_Stack_T\Colecao_Stack_T.csproj", "{D73F02AC-9CA2-4F88-97EE-041F58B434B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{67CF7712-D354-4E90-95C9-0665FFCB96C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67CF7712-D354-4E90-95C9-0665FFCB96C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67CF7712-D354-4E90-95C9-0665FFCB96C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73F02AC-9CA2-4F88-97EE-041F58B434B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73F02AC-9CA2-4F88-97EE-041F58B434B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73F02AC-9CA2-4F88-97EE-041F58B434B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73F02AC-9CA2-4F88-97EE-041F58B434B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
