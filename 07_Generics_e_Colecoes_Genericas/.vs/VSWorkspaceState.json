@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Generics_e_Colecoes_Genericas",
+    "\\Generics_e_Colecoes_Genericas\\Colecao_Set",
     "\\Generics_e_Colecoes_Genericas\\Dictionary_02",
     "\\Generics_e_Colecoes_Genericas\\Dictionary_Exercicio",
     "\\Generics_e_Colecoes_Genericas\\GetHashCode_e_Equals_Exemplo"
   ],
-  "SelectedNode": "\\Generics_e_Colecoes_Genericas\\Dictionary_Exercicio\\Program.cs",
+  "SelectedNode": "\\Generics_e_Colecoes_Genericas\\Generics_01.sln",
   "PreviewInSolutionExplorer": false
 }
