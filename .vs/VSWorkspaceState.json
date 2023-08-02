@@ -6,8 +6,9 @@
     "\\03_EstruturasDeControle\\EstruturasDeControle\\Switch02",
     "\\03_EstruturasDeControle\\EstruturasDeControle\\While_01",
     "\\07_Generics_e_Colecoes_Genericas",
-    "\\07_Generics_e_Colecoes_Genericas\\Generics_e_Colecoes_Genericas"
+    "\\07_Generics_e_Colecoes_Genericas\\Generics_e_Colecoes_Genericas",
+    "\\07_Generics_e_Colecoes_Genericas\\Generics_e_Colecoes_Genericas\\Queue_T"
   ],
-  "SelectedNode": "\\07_Generics_e_Colecoes_Genericas\\Generics_e_Colecoes_Genericas\\Generics_01.sln",
+  "SelectedNode": "\\07_Generics_e_Colecoes_Genericas\\Generics_e_Colecoes_Genericas\\Queue_T\\Program.cs",
   "PreviewInSolutionExplorer": true
 }

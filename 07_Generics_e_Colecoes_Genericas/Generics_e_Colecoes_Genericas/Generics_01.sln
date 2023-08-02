@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue_T", "Queue_T\Queue_T.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue_T_Exemplo", "Queue_T_Exemplo\Queue_T_Exemplo.csproj", "{D6532CD7-E977-4440-9428-C14F2A90D8EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read_Only_Collection_T", "Read_Only_Collection_T\Read_Only_Collection_T.csproj", "{BD94D6DB-20D7-4187-BB06-C454A1E44BCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{D6532CD7-E977-4440-9428-C14F2A90D8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6532CD7-E977-4440-9428-C14F2A90D8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6532CD7-E977-4440-9428-C14F2A90D8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD94D6DB-20D7-4187-BB06-C454A1E44BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD94D6DB-20D7-4187-BB06-C454A1E44BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD94D6DB-20D7-4187-BB06-C454A1E44BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD94D6DB-20D7-4187-BB06-C454A1E44BCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
