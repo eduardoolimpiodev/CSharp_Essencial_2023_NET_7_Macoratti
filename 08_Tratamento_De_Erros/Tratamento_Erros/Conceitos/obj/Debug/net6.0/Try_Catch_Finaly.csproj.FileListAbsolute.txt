@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\08_Tratamento_De_Erros\Tratamento_Erros\Conceitos\bin\Debug\net6.0\Try_Catch_Finaly.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\08_Tratamento_De_Erros\Tratamento_Erros\Conceitos\bin\Debug\net6.0\Try_Catch_Finaly.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\08_Tratamento_De_Erros\Tratamento_Erros\Conceitos\bin\Debug\net6.0\Try_Catch_Finaly.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\08_Tratamento_De_Erros\Tratamento_Erros\Conceitos\bin\Debug\net6.0\Try_Catch_Finaly.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\08_Tratamento_De_Erros\Tratamento_Erros\Conceitos\bin\Debug\net6.0\Try_Catch_Finaly.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\08_Tratamento_De_Erros\Tratamento_Erros\Conceitos\obj\Debug\net6.0\Try_Catch_Finaly.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\08_Tratamento_De_Erros\Tratamento_Erros\Conceitos\obj\Debug\net6.0\Try_Catch_Finaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\08_Tratamento_De_Erros\Tratamento_Erros\Conceitos\obj\Debug\net6.0\Try_Catch_Finaly.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\08_Tratamento_De_Erros\Tratamento_Erros\Conceitos\obj\Debug\net6.0\Try_Catch_Finaly.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\08_Tratamento_De_Erros\Tratamento_Erros\Conceitos\obj\Debug\net6.0\Try_Catch_Finaly.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\08_Tratamento_De_Erros\Tratamento_Erros\Conceitos\obj\Debug\net6.0\Try_Catch_Finaly.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\08_Tratamento_De_Erros\Tratamento_Erros\Conceitos\obj\Debug\net6.0\refint\Try_Catch_Finaly.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\08_Tratamento_De_Erros\Tratamento_Erros\Conceitos\obj\Debug\net6.0\Try_Catch_Finaly.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\08_Tratamento_De_Erros\Tratamento_Erros\Conceitos\obj\Debug\net6.0\Try_Catch_Finaly.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\08_Tratamento_De_Erros\Tratamento_Erros\Conceitos\obj\Debug\net6.0\ref\Try_Catch_Finaly.dll

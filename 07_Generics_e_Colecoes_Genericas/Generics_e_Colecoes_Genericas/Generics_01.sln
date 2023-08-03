@@ -43,7 +43,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue_T_Exemplo", "Queue_T_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Read_Only_Collection_T", "Read_Only_Collection_T\Read_Only_Collection_T.csproj", "{BD94D6DB-20D7-4187-BB06-C454A1E44BCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadOnlyCollection_T_Exemplo", "ReadOnlyCollection_T_Exemplo\ReadOnlyCollection_T_Exemplo.csproj", "{3502A7F3-4207-4934-AC87-6DB54E2C05A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadOnlyCollection_T_Exemplo", "ReadOnlyCollection_T_Exemplo\ReadOnlyCollection_T_Exemplo.csproj", "{3502A7F3-4207-4934-AC87-6DB54E2C05A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
