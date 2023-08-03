@@ -39,9 +39,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecao_Stack_T_Exercicio_U
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue_T", "Queue_T\Queue_T.csproj", "{8E967C74-33B1-497F-BA2B-ABA7712F8CD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue_T_Exemplo", "Queue_T_Exemplo\Queue_T_Exemplo.csproj", "{D6532CD7-E977-4440-9428-C14F2A90D8EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue_T_Exemplo", "Queue_T_Exemplo\Queue_T_Exemplo.csproj", "{D6532CD7-E977-4440-9428-C14F2A90D8EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read_Only_Collection_T", "Read_Only_Collection_T\Read_Only_Collection_T.csproj", "{BD94D6DB-20D7-4187-BB06-C454A1E44BCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Read_Only_Collection_T", "Read_Only_Collection_T\Read_Only_Collection_T.csproj", "{BD94D6DB-20D7-4187-BB06-C454A1E44BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadOnlyCollection_T_Exemplo", "ReadOnlyCollection_T_Exemplo\ReadOnlyCollection_T_Exemplo.csproj", "{3502A7F3-4207-4934-AC87-6DB54E2C05A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{BD94D6DB-20D7-4187-BB06-C454A1E44BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD94D6DB-20D7-4187-BB06-C454A1E44BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD94D6DB-20D7-4187-BB06-C454A1E44BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3502A7F3-4207-4934-AC87-6DB54E2C05A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3502A7F3-4207-4934-AC87-6DB54E2C05A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3502A7F3-4207-4934-AC87-6DB54E2C05A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3502A7F3-4207-4934-AC87-6DB54E2C05A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
