@@ -3,12 +3,14 @@
     "",
     "\\03_EstruturasDeControle",
     "\\03_EstruturasDeControle\\EstruturasDeControle",
-    "\\03_EstruturasDeControle\\EstruturasDeControle\\Switch02",
     "\\03_EstruturasDeControle\\EstruturasDeControle\\While_01",
     "\\07_Generics_e_Colecoes_Genericas",
     "\\07_Generics_e_Colecoes_Genericas\\Generics_e_Colecoes_Genericas",
     "\\07_Generics_e_Colecoes_Genericas\\Generics_e_Colecoes_Genericas\\Queue_T",
-    "\\07_Generics_e_Colecoes_Genericas\\Generics_e_Colecoes_Genericas\\Read_Only_Collection_T"
+    "\\07_Generics_e_Colecoes_Genericas\\Generics_e_Colecoes_Genericas\\Read_Only_Collection_T",
+    "\\08_Tratamento_De_Erros",
+    "\\08_Tratamento_De_Erros\\Tratamento_Erros"
   ],
+  "SelectedNode": "\\08_Tratamento_De_Erros\\Tratamento_Erros\\Tratamento_Erros.sln",
   "PreviewInSolutionExplorer": true
 }

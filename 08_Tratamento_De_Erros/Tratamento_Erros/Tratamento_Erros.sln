@@ -5,11 +5,13 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tratamento_De_Erros", "Tratamento_De_Erros\Tratamento_De_Erros.csproj", "{56888B60-E55F-442A-A699-893A4BC72ED5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try_Catch_Finaly", "Conceitos\Try_Catch_Finaly.csproj", "{8B35A1FE-36FA-4B24-924C-598F6D73E299}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Try_Catch_Finaly", "Conceitos\Try_Catch_Finaly.csproj", "{8B35A1FE-36FA-4B24-924C-598F6D73E299}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lancando_Excecoes_Throw", "Lancando_Excecoes_Throw\Lancando_Excecoes_Throw.csproj", "{40289921-E870-4E78-9D46-AA7DE07367EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lancando_Excecoes_Throw", "Lancando_Excecoes_Throw\Lancando_Excecoes_Throw.csproj", "{40289921-E870-4E78-9D46-AA7DE07367EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filtrando_Excecoes", "Filtrando_Excecoes\Filtrando_Excecoes.csproj", "{0B1EE1F4-3B58-4010-A86C-48C361CC8C60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Filtrando_Excecoes", "Filtrando_Excecoes\Filtrando_Excecoes.csproj", "{0B1EE1F4-3B58-4010-A86C-48C361CC8C60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tratamento_De_Excecoes_Exercicio", "Tratamento_De_Excecoes_Exercicio\Tratamento_De_Excecoes_Exercicio.csproj", "{955D54C9-FA19-429B-B69E-FE0D046376F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0B1EE1F4-3B58-4010-A86C-48C361CC8C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B1EE1F4-3B58-4010-A86C-48C361CC8C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B1EE1F4-3B58-4010-A86C-48C361CC8C60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955D54C9-FA19-429B-B69E-FE0D046376F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955D54C9-FA19-429B-B69E-FE0D046376F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955D54C9-FA19-429B-B69E-FE0D046376F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955D54C9-FA19-429B-B69E-FE0D046376F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
