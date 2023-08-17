@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Metodos_Anonimos\bin\Debug\net6.0\Metodos_Anonimos.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Metodos_Anonimos\bin\Debug\net6.0\Metodos_Anonimos.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Metodos_Anonimos\bin\Debug\net6.0\Metodos_Anonimos.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Metodos_Anonimos\bin\Debug\net6.0\Metodos_Anonimos.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Metodos_Anonimos\bin\Debug\net6.0\Metodos_Anonimos.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Metodos_Anonimos\obj\Debug\net6.0\Metodos_Anonimos.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Metodos_Anonimos\obj\Debug\net6.0\Metodos_Anonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Metodos_Anonimos\obj\Debug\net6.0\Metodos_Anonimos.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Metodos_Anonimos\obj\Debug\net6.0\Metodos_Anonimos.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Metodos_Anonimos\obj\Debug\net6.0\Metodos_Anonimos.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Metodos_Anonimos\obj\Debug\net6.0\Metodos_Anonimos.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Metodos_Anonimos\obj\Debug\net6.0\refint\Metodos_Anonimos.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Metodos_Anonimos\obj\Debug\net6.0\Metodos_Anonimos.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Metodos_Anonimos\obj\Debug\net6.0\Metodos_Anonimos.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Metodos_Anonimos\obj\Debug\net6.0\ref\Metodos_Anonimos.dll
