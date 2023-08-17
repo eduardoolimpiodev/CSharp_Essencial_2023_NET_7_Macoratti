@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_MultiCast", "Deleg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos_Anonimos", "Metodos_Anonimos\Metodos_Anonimos.csproj", "{1291EC4C-80B7-44D2-B0E0-0F03052BAFFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressao_Lambda", "Expressao_Lambda\Expressao_Lambda.csproj", "{610359E6-1D7A-4B16-857E-861E2E4C99F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1291EC4C-80B7-44D2-B0E0-0F03052BAFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1291EC4C-80B7-44D2-B0E0-0F03052BAFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1291EC4C-80B7-44D2-B0E0-0F03052BAFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610359E6-1D7A-4B16-857E-861E2E4C99F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610359E6-1D7A-4B16-857E-861E2E4C99F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610359E6-1D7A-4B16-857E-861E2E4C99F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610359E6-1D7A-4B16-857E-861E2E4C99F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

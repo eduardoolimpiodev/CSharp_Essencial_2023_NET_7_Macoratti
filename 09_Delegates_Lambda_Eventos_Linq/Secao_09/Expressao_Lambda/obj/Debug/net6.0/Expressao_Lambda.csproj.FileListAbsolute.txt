@@ -1,0 +1,15 @@
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Expressao_Lambda\bin\Debug\net6.0\Expressao_Lambda.exe
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Expressao_Lambda\bin\Debug\net6.0\Expressao_Lambda.deps.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Expressao_Lambda\bin\Debug\net6.0\Expressao_Lambda.runtimeconfig.json
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Expressao_Lambda\bin\Debug\net6.0\Expressao_Lambda.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Expressao_Lambda\bin\Debug\net6.0\Expressao_Lambda.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Expressao_Lambda\obj\Debug\net6.0\Expressao_Lambda.csproj.AssemblyReference.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Expressao_Lambda\obj\Debug\net6.0\Expressao_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Expressao_Lambda\obj\Debug\net6.0\Expressao_Lambda.AssemblyInfoInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Expressao_Lambda\obj\Debug\net6.0\Expressao_Lambda.AssemblyInfo.cs
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Expressao_Lambda\obj\Debug\net6.0\Expressao_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Expressao_Lambda\obj\Debug\net6.0\Expressao_Lambda.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Expressao_Lambda\obj\Debug\net6.0\refint\Expressao_Lambda.dll
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Expressao_Lambda\obj\Debug\net6.0\Expressao_Lambda.pdb
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Expressao_Lambda\obj\Debug\net6.0\Expressao_Lambda.genruntimeconfig.cache
+C:\Users\Eduardo Olimpio\Documents\CSharp_Essencial_2023_NET_7_Macoratti\09_Delegates_Lambda_Eventos_Linq\Secao_09\Expressao_Lambda\obj\Debug\net6.0\ref\Expressao_Lambda.dll
